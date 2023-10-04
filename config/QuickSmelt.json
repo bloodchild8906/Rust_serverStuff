@@ -12,7 +12,7 @@
   "Fuel Usage Speed Multipliers": {
     "global": 1.0,
     "furnace": 1.6,
-    "electric.furnace":1.6
+    "electric.furnace":5
   },
   "Fuel Usage Multipliers": {
     "global": 1,
