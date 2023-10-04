@@ -7,12 +7,11 @@
     "furnace.large": 3.0,
     "campfire": 3.0,
     "bbq.deployed": 3.0,
-    "electric.furnace": 3.0
+    "electric.furnace": 10.0
   },
   "Fuel Usage Speed Multipliers": {
     "global": 1.0,
-    "furnace": 1.6,
-    "electric.furnace":5
+    "furnace": 1.6
   },
   "Fuel Usage Multipliers": {
     "global": 1,
