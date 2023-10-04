@@ -11,7 +11,8 @@
   },
   "Fuel Usage Speed Multipliers": {
     "global": 1.0,
-    "furnace": 1.6
+    "furnace": 1.6,
+    "electric.furnace":1.6
   },
   "Fuel Usage Multipliers": {
     "global": 1,
@@ -36,6 +37,12 @@
       "lowgradefuel": 1.4
     },
     "furnace.large": {
+      "charcoal": 1.6,
+      "metal.fragments": 1.6,
+      "sulfur": 0.4,
+      "metal.refined": 1.6
+    },
+    "electric.furnace": {
       "charcoal": 1.6,
       "metal.fragments": 1.6,
       "sulfur": 0.4,
