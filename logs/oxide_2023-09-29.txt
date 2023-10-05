@@ -1,0 +1,91 @@
+20:07 [Info] Loading Oxide Core v2.0.4070...
+20:07 [Info] Loading extensions...
+20:07 [Info] Loaded extension CSharp v2.0.4112 by Oxide Team and Contributors
+20:07 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+20:07 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+20:07 [Info] Unity version: 2021.3.29f1
+20:07 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+20:07 [Info] Loaded extension Rust v2.0.6023 by Oxide Team and Contributors
+20:07 [Info] [CSharp] Downloading Oxide.Compiler. . .
+20:07 [Info] [CSharp] Downloaded newer version of Oxide.Compiler | Newer found
+20:07 [Info] File permissions set for Oxide.Compiler
+20:07 [Info] Using Covalence provider for game 'Rust'
+20:07 [Info] Loading plugins...
+20:07 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+20:07 [Info] Loaded plugin Rust v2.0.6023 by Oxide Team and Contributors
+20:13 [Info] IP address from external API: 213.171.194.247
+20:48 [Info] Loading Oxide Core v2.0.4070...
+20:48 [Info] Loading extensions...
+20:48 [Info] Loaded extension CSharp v2.0.4112 by Oxide Team and Contributors
+20:48 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+20:48 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+20:48 [Info] Unity version: 2021.3.29f1
+20:48 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+20:48 [Info] Loaded extension Rust v2.0.6023 by Oxide Team and Contributors
+20:48 [Info] [CSharp] Checking for updates for Oxide.Compiler | Local MD5: 3a0143f758249e0795072ff168a1197f | Last modified: 2023-09-29 19:07:47
+20:48 [Info] [CSharp] Oxide.Compiler is up to date
+20:48 [Info] File permissions set for Oxide.Compiler
+20:48 [Info] Using Covalence provider for game 'Rust'
+20:48 [Info] Loading plugins...
+20:48 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+20:48 [Info] Loaded plugin Rust v2.0.6023 by Oxide Team and Contributors
+20:52 [Info] IP address from command-line: 213.171.194.247
+20:56 [Info] Loading Oxide Core v2.0.4070...
+20:56 [Info] Loading extensions...
+20:56 [Info] Loaded extension CSharp v2.0.4112 by Oxide Team and Contributors
+20:56 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+20:56 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+20:56 [Info] Unity version: 2021.3.29f1
+20:56 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+20:56 [Info] Loaded extension Rust v2.0.6023 by Oxide Team and Contributors
+20:56 [Info] [CSharp] Checking for updates for Oxide.Compiler | Local MD5: 3a0143f758249e0795072ff168a1197f | Last modified: 2023-09-29 19:07:47
+20:56 [Info] [CSharp] Oxide.Compiler is up to date
+20:56 [Info] File permissions set for Oxide.Compiler
+20:56 [Info] Using Covalence provider for game 'Rust'
+20:56 [Info] Loading plugins...
+20:56 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+20:56 [Info] Loaded plugin Rust v2.0.6023 by Oxide Team and Contributors
+21:00 [Info] IP address from command-line: 213.171.194.247
+21:27 [Info] Loading Oxide Core v2.0.4070...
+21:27 [Info] Loading extensions...
+21:27 [Info] Loaded extension CSharp v2.0.4112 by Oxide Team and Contributors
+21:27 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+21:27 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+21:27 [Info] Unity version: 2021.3.29f1
+21:27 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+21:27 [Info] Loaded extension Rust v2.0.6023 by Oxide Team and Contributors
+21:27 [Info] [CSharp] Checking for updates for Oxide.Compiler | Local MD5: 3a0143f758249e0795072ff168a1197f | Last modified: 2023-09-29 19:07:47
+21:27 [Info] [CSharp] Oxide.Compiler is up to date
+21:27 [Info] File permissions set for Oxide.Compiler
+21:27 [Info] Using Covalence provider for game 'Rust'
+21:27 [Info] Loading plugins...
+21:27 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+21:27 [Info] Loaded plugin Rust v2.0.6023 by Oxide Team and Contributors
+21:31 [Info] IP address from external API: 213.171.194.247
+21:42 [Info] Loading Oxide Core v2.0.4070...
+21:42 [Info] Loading extensions...
+21:42 [Info] Loaded extension CSharp v2.0.4112 by Oxide Team and Contributors
+21:42 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+21:42 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+21:42 [Info] Unity version: 2021.3.29f1
+21:42 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+21:42 [Info] Loaded extension Rust v2.0.6023 by Oxide Team and Contributors
+21:42 [Info] [CSharp] Checking for updates for Oxide.Compiler | Local MD5: 3a0143f758249e0795072ff168a1197f | Last modified: 2023-09-29 19:07:47
+21:42 [Info] [CSharp] Oxide.Compiler is up to date
+21:42 [Info] File permissions set for Oxide.Compiler
+21:42 [Info] Using Covalence provider for game 'Rust'
+21:42 [Info] Loading plugins...
+21:42 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+21:42 [Info] Loaded plugin Rust v2.0.6023 by Oxide Team and Contributors
+21:46 [Info] IP address from command-line: 213.171.194.247
+22:06 [Error] Oxide.Ext.Discord is referenced by Rustcord plugin but is not loaded
+22:06 [Info] [CSharp] Started Oxide.Compiler v successfully
+22:06 [Info] Shutting down compiler because no more jobs
+22:06 [Info] FurnaceSplitter, NoGiveNotices and StackSizeController were compiled successfully in 1443ms
+22:06 [Warning] [Furnace Splitter] Creating default config for FurnaceSplitter.
+22:06 [Info] Loaded plugin Furnace Splitter v2.5.2 by FastBurst
+22:06 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+22:06 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+22:06 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+22:06 [Info] [Stack Size Controller] Populating Individual Item Stack Sizes in configuration.
+22:06 [Info] Compiler shutdown completed

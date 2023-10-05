@@ -1,0 +1,142 @@
+{
+  "Use Permission": true,
+  "Speed Multipliers": {
+    "global": 1.0,
+    "furnace": 3.0,
+    "refinery_small_deployed": 3.0,
+    "furnace.large": 3.0,
+    "campfire": 3.0,
+    "bbq.deployed": 3.0,
+    "electric.furnace": 3.0
+  },
+  "Fuel Usage Speed Multipliers": {
+    "global": 1.0,
+    "furnace": 1.6
+  },
+  "Fuel Usage Multipliers": {
+    "global": 1,
+    "furnace": 1,
+    "refinery_small_deployed": 1,
+    "furnace.large": 1,
+    "campfire": 1,
+    "bbq.deployed": 1,
+    "electric.furnace": 1
+  },
+  "Output Multipliers": {
+    "global": {
+      "global": 1.0
+    },
+    "furnace": {
+      "charcoal": 1.6,
+      "metal.fragments": 1.6,
+      "sulfur": 0.4,
+      "metal.refined": 1.6
+    },
+    "refinery_small_deployed": {
+      "lowgradefuel": 1.4
+    },
+    "furnace.large": {
+      "charcoal": 1.6,
+      "metal.fragments": 1.6,
+      "sulfur": 0.4,
+      "metal.refined": 1.6
+    }
+  },
+  "Whitelist": {
+    "global": [],
+    "furnace": [
+      "metal.ore",
+      "sulfur.ore",
+      "hq.metal.ore"
+    ],
+    "furnace.large": [
+      "metal.ore",
+      "sulfur.ore",
+      "hq.metal.ore"
+    ],
+    
+    "electric.furnace": [
+      "metal.ore",
+      "sulfur.ore",
+      "hq.metal.ore"
+    ],
+    
+    "refinery_small_deployed": [
+      "lowgradefuel"
+    ],
+    "campfire": [
+      "deermeat.raw",
+      "chicken.raw",
+      "humanmeat.raw",
+      "fish.raw",
+      "bearmeat",
+      "wolfmeat.raw",
+      "meat.pork.raw"
+    ],
+    "bbq.deployed": [
+      "deermeat.raw",
+      "chicken.raw",
+      "humanmeat.raw",
+      "fish.raw",
+      "bearmeat",
+      "wolfmeat.raw",
+      "meat.pork.raw"
+    ]
+  },
+  "Blacklist": {
+    "global": [],
+    "furnace": [
+      "deermeat.cooked",
+      "chicken.cooked",
+      "humanmeat.cooked",
+      "fish.cooked",
+      "bearmeat.cooked",
+      "wolfmeat.cooked",
+      "meat.pork.cooked"
+    ],
+    "furnace.large": [
+      "deermeat.cooked",
+      "chicken.cooked",
+      "humanmeat.cooked",
+      "fish.cooked",
+      "bearmeat.cooked",
+      "wolfmeat.cooked",
+      "meat.pork.cooked"
+    ],
+    
+    "electric.furnace": [
+      "deermeat.cooked",
+      "chicken.cooked",
+      "humanmeat.cooked",
+      "fish.cooked",
+      "bearmeat.cooked",
+      "wolfmeat.cooked",
+      "meat.pork.cooked"
+    ],
+    
+    
+    "campfire": [
+      "deermeat.cooked",
+      "chicken.cooked",
+      "humanmeat.cooked",
+      "fish.cooked",
+      "bearmeat.cooked",
+      "wolfmeat.cooked",
+      "meat.pork.cooked"
+    ],
+    "bbq.deployed": [
+      "deermeat.cooked",
+      "chicken.cooked",
+      "humanmeat.cooked",
+      "fish.cooked",
+      "bearmeat.cooked",
+      "wolfmeat.cooked",
+      "meat.pork.cooked"
+    ]
+  },
+  "Smelting Frequencies (Smelt items every N smelting ticks)": {
+    "global": 1,
+    "furnace.shortname": 1
+  },
+  "Debug": false
+}

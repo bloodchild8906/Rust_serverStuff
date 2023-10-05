@@ -1,0 +1,528 @@
+2023-10-01 00:39:58.756 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 00:39:58.770 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 00:39:58.775 +01:00 [INF] Watching parent process ([35269] RustDedicated) for shutdown
+2023-10-01 00:39:58.775 +01:00 [DBG] Started message server. . .
+2023-10-01 00:39:58.775 +01:00 [INF] Message server has started
+2023-10-01 00:40:00.774 +01:00 [INF] Sent ready message to parent process
+2023-10-01 00:40:00.774 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 00:40:00.893 +01:00 [DBG] Received compile job 0 | Plugins: 4, References: 55
+2023-10-01 00:40:01.778 +01:00 [INF] Starting compilation of job 0 | Total Plugins: 4
+2023-10-01 00:40:01.778 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 00:40:01.791 +01:00 [DBG] Added 55 project references
+2023-10-01 00:40:01.844 +01:00 [DBG] Added 4 plugins to the project
+2023-10-01 00:40:02.521 +01:00 [INF] Successfully compiled 4/4 plugins for job 0 in 743ms
+2023-10-01 00:40:02.521 +01:00 [DBG] Pushing job 0 back to parent
+2023-10-01 00:40:02.527 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 00:40:03.524 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 00:56:57.936 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 00:56:57.949 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 00:56:57.954 +01:00 [INF] Watching parent process ([35269] RustDedicated) for shutdown
+2023-10-01 00:56:57.955 +01:00 [DBG] Started message server. . .
+2023-10-01 00:56:57.955 +01:00 [INF] Message server has started
+2023-10-01 00:56:59.955 +01:00 [INF] Sent ready message to parent process
+2023-10-01 00:56:59.955 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 00:57:00.019 +01:00 [DBG] Received compile job 1 | Plugins: 1, References: 55
+2023-10-01 00:57:00.956 +01:00 [INF] Starting compilation of job 1 | Total Plugins: 1
+2023-10-01 00:57:00.956 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 00:57:00.968 +01:00 [DBG] Added 55 project references
+2023-10-01 00:57:01.013 +01:00 [DBG] Added 1 plugins to the project
+2023-10-01 00:57:01.665 +01:00 [INF] Successfully compiled 1/1 plugins for job 1 in 709ms
+2023-10-01 00:57:01.666 +01:00 [DBG] Pushing job 1 back to parent
+2023-10-01 00:57:01.667 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 00:57:02.666 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 01:20:05.333 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 01:20:05.348 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 01:20:05.353 +01:00 [INF] Watching parent process ([35269] RustDedicated) for shutdown
+2023-10-01 01:20:05.353 +01:00 [DBG] Started message server. . .
+2023-10-01 01:20:05.353 +01:00 [INF] Message server has started
+2023-10-01 01:20:07.354 +01:00 [INF] Sent ready message to parent process
+2023-10-01 01:20:07.354 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 01:20:07.418 +01:00 [DBG] Received compile job 2 | Plugins: 1, References: 54
+2023-10-01 01:20:08.358 +01:00 [INF] Starting compilation of job 2 | Total Plugins: 1
+2023-10-01 01:20:08.358 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 01:20:08.371 +01:00 [DBG] Added 54 project references
+2023-10-01 01:20:08.400 +01:00 [DBG] Added 1 plugins to the project
+2023-10-01 01:20:08.800 +01:00 [INF] Successfully compiled 1/1 plugins for job 2 in 442ms
+2023-10-01 01:20:08.800 +01:00 [DBG] Pushing job 2 back to parent
+2023-10-01 01:20:08.801 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 01:20:09.798 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 01:54:48.550 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 01:54:48.564 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 01:54:48.569 +01:00 [INF] Watching parent process ([35269] RustDedicated) for shutdown
+2023-10-01 01:54:48.570 +01:00 [DBG] Started message server. . .
+2023-10-01 01:54:48.570 +01:00 [INF] Message server has started
+2023-10-01 01:54:50.571 +01:00 [INF] Sent ready message to parent process
+2023-10-01 01:54:50.572 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 01:54:50.695 +01:00 [DBG] Received compile job 3 | Plugins: 1, References: 54
+2023-10-01 01:54:51.572 +01:00 [INF] Starting compilation of job 3 | Total Plugins: 1
+2023-10-01 01:54:51.572 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 01:54:51.584 +01:00 [DBG] Added 54 project references
+2023-10-01 01:54:51.612 +01:00 [DBG] Added 1 plugins to the project
+2023-10-01 01:54:51.950 +01:00 [INF] Successfully compiled 1/1 plugins for job 3 in 378ms
+2023-10-01 01:54:51.950 +01:00 [DBG] Pushing job 3 back to parent
+2023-10-01 01:54:51.952 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 01:54:52.951 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 11:10:35.832 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 11:10:35.850 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 11:10:35.856 +01:00 [INF] Watching parent process ([35269] RustDedicated) for shutdown
+2023-10-01 11:10:35.857 +01:00 [DBG] Started message server. . .
+2023-10-01 11:10:35.857 +01:00 [INF] Message server has started
+2023-10-01 11:10:37.861 +01:00 [INF] Sent ready message to parent process
+2023-10-01 11:10:37.862 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 11:10:37.995 +01:00 [DBG] Received compile job 4 | Plugins: 2, References: 54
+2023-10-01 11:10:38.869 +01:00 [INF] Starting compilation of job 4 | Total Plugins: 2
+2023-10-01 11:10:38.870 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 11:10:38.884 +01:00 [DBG] Added 54 project references
+2023-10-01 11:10:38.933 +01:00 [DBG] Added 2 plugins to the project
+2023-10-01 11:10:39.407 +01:00 [INF] Successfully compiled 2/2 plugins for job 4 in 538ms
+2023-10-01 11:10:39.407 +01:00 [DBG] Pushing job 4 back to parent
+2023-10-01 11:10:39.408 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 11:10:40.409 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 11:18:53.888 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 11:18:53.902 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 11:18:53.908 +01:00 [INF] Watching parent process ([35269] RustDedicated) for shutdown
+2023-10-01 11:18:53.908 +01:00 [DBG] Started message server. . .
+2023-10-01 11:18:53.908 +01:00 [INF] Message server has started
+2023-10-01 11:18:55.905 +01:00 [INF] Sent ready message to parent process
+2023-10-01 11:18:55.906 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 11:18:55.973 +01:00 [DBG] Received compile job 5 | Plugins: 1, References: 54
+2023-10-01 11:18:56.910 +01:00 [INF] Starting compilation of job 5 | Total Plugins: 1
+2023-10-01 11:18:56.910 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 11:18:56.923 +01:00 [DBG] Added 54 project references
+2023-10-01 11:18:56.957 +01:00 [DBG] Added 1 plugins to the project
+2023-10-01 11:18:57.352 +01:00 [INF] Successfully compiled 1/1 plugins for job 5 in 442ms
+2023-10-01 11:18:57.352 +01:00 [DBG] Pushing job 5 back to parent
+2023-10-01 11:18:57.354 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 11:18:58.350 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 11:20:15.988 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 11:20:16.001 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 11:20:16.006 +01:00 [INF] Watching parent process ([35269] RustDedicated) for shutdown
+2023-10-01 11:20:16.006 +01:00 [DBG] Started message server. . .
+2023-10-01 11:20:16.006 +01:00 [INF] Message server has started
+2023-10-01 11:20:18.006 +01:00 [INF] Sent ready message to parent process
+2023-10-01 11:20:18.006 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 11:20:18.064 +01:00 [DBG] Received compile job 6 | Plugins: 1, References: 54
+2023-10-01 11:20:19.011 +01:00 [INF] Starting compilation of job 6 | Total Plugins: 1
+2023-10-01 11:20:19.011 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 11:20:19.023 +01:00 [DBG] Added 54 project references
+2023-10-01 11:20:19.058 +01:00 [DBG] Added 1 plugins to the project
+2023-10-01 11:20:19.493 +01:00 [INF] Successfully compiled 1/1 plugins for job 6 in 482ms
+2023-10-01 11:20:19.493 +01:00 [DBG] Pushing job 6 back to parent
+2023-10-01 11:20:19.494 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 11:20:20.495 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 11:23:39.828 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 11:23:39.843 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 11:23:39.849 +01:00 [INF] Watching parent process ([35269] RustDedicated) for shutdown
+2023-10-01 11:23:39.849 +01:00 [DBG] Started message server. . .
+2023-10-01 11:23:39.849 +01:00 [INF] Message server has started
+2023-10-01 11:23:41.851 +01:00 [INF] Sent ready message to parent process
+2023-10-01 11:23:41.852 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 11:23:41.916 +01:00 [DBG] Received compile job 7 | Plugins: 1, References: 54
+2023-10-01 11:23:42.852 +01:00 [INF] Starting compilation of job 7 | Total Plugins: 1
+2023-10-01 11:23:42.852 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 11:23:42.864 +01:00 [DBG] Added 54 project references
+2023-10-01 11:23:42.880 +01:00 [DBG] Added 1 plugins to the project
+2023-10-01 11:23:43.143 +01:00 [INF] Successfully compiled 1/1 plugins for job 7 in 290ms
+2023-10-01 11:23:43.143 +01:00 [DBG] Pushing job 7 back to parent
+2023-10-01 11:23:43.144 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 11:23:44.143 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 12:08:23.937 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 12:08:23.950 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 12:08:23.955 +01:00 [INF] Watching parent process ([72437] RustDedicated) for shutdown
+2023-10-01 12:08:23.955 +01:00 [DBG] Started message server. . .
+2023-10-01 12:08:23.955 +01:00 [INF] Message server has started
+2023-10-01 12:08:25.955 +01:00 [INF] Sent ready message to parent process
+2023-10-01 12:08:25.956 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 12:08:26.078 +01:00 [DBG] Received compile job 0 | Plugins: 6, References: 55
+2023-10-01 12:08:26.955 +01:00 [INF] Starting compilation of job 0 | Total Plugins: 6
+2023-10-01 12:08:26.955 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 12:08:26.967 +01:00 [DBG] Added 55 project references
+2023-10-01 12:08:27.025 +01:00 [DBG] Added 6 plugins to the project
+2023-10-01 12:08:27.673 +01:00 [INF] Successfully compiled 6/6 plugins for job 0 in 717ms
+2023-10-01 12:08:27.673 +01:00 [DBG] Pushing job 0 back to parent
+2023-10-01 12:08:27.682 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 12:08:28.675 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 12:23:03.088 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 12:23:03.102 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 12:23:03.108 +01:00 [INF] Watching parent process ([72437] RustDedicated) for shutdown
+2023-10-01 12:23:03.108 +01:00 [DBG] Started message server. . .
+2023-10-01 12:23:03.108 +01:00 [INF] Message server has started
+2023-10-01 12:23:05.105 +01:00 [INF] Sent ready message to parent process
+2023-10-01 12:23:05.106 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 12:23:05.167 +01:00 [DBG] Received compile job 1 | Plugins: 1, References: 54
+2023-10-01 12:23:06.109 +01:00 [INF] Starting compilation of job 1 | Total Plugins: 1
+2023-10-01 12:23:06.109 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 12:23:06.123 +01:00 [DBG] Added 54 project references
+2023-10-01 12:23:06.160 +01:00 [DBG] Added 1 plugins to the project
+2023-10-01 12:23:06.641 +01:00 [INF] Successfully compiled 1/1 plugins for job 1 in 531ms
+2023-10-01 12:23:06.641 +01:00 [DBG] Pushing job 1 back to parent
+2023-10-01 12:23:06.642 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 12:23:07.643 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 12:27:46.779 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 12:27:46.792 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 12:27:46.797 +01:00 [INF] Watching parent process ([72437] RustDedicated) for shutdown
+2023-10-01 12:27:46.797 +01:00 [DBG] Started message server. . .
+2023-10-01 12:27:46.797 +01:00 [INF] Message server has started
+2023-10-01 12:27:48.797 +01:00 [INF] Sent ready message to parent process
+2023-10-01 12:27:48.798 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 12:27:48.864 +01:00 [DBG] Received compile job 2 | Plugins: 1, References: 54
+2023-10-01 12:27:49.801 +01:00 [INF] Starting compilation of job 2 | Total Plugins: 1
+2023-10-01 12:27:49.801 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 12:27:49.815 +01:00 [DBG] Added 54 project references
+2023-10-01 12:27:49.843 +01:00 [DBG] Added 1 plugins to the project
+2023-10-01 12:27:50.232 +01:00 [INF] Successfully compiled 1/1 plugins for job 2 in 431ms
+2023-10-01 12:27:50.232 +01:00 [DBG] Pushing job 2 back to parent
+2023-10-01 12:27:50.234 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 12:27:51.230 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 12:29:38.478 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 12:29:38.491 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 12:29:38.496 +01:00 [INF] Watching parent process ([72437] RustDedicated) for shutdown
+2023-10-01 12:29:38.497 +01:00 [DBG] Started message server. . .
+2023-10-01 12:29:38.497 +01:00 [INF] Message server has started
+2023-10-01 12:29:40.501 +01:00 [INF] Sent ready message to parent process
+2023-10-01 12:29:40.501 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 12:29:40.559 +01:00 [DBG] Received compile job 3 | Plugins: 1, References: 54
+2023-10-01 12:29:41.506 +01:00 [INF] Starting compilation of job 3 | Total Plugins: 1
+2023-10-01 12:29:41.506 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 12:29:41.520 +01:00 [DBG] Added 54 project references
+2023-10-01 12:29:41.552 +01:00 [DBG] Added 1 plugins to the project
+2023-10-01 12:29:42.020 +01:00 [INF] Successfully compiled 1/1 plugins for job 3 in 514ms
+2023-10-01 12:29:42.020 +01:00 [DBG] Pushing job 3 back to parent
+2023-10-01 12:29:42.021 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 12:29:43.019 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 12:31:12.613 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 12:31:12.628 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 12:31:12.635 +01:00 [INF] Watching parent process ([72437] RustDedicated) for shutdown
+2023-10-01 12:31:12.635 +01:00 [DBG] Started message server. . .
+2023-10-01 12:31:12.635 +01:00 [INF] Message server has started
+2023-10-01 12:31:14.633 +01:00 [INF] Sent ready message to parent process
+2023-10-01 12:31:14.634 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 12:31:14.699 +01:00 [DBG] Received compile job 4 | Plugins: 1, References: 54
+2023-10-01 12:31:15.637 +01:00 [INF] Starting compilation of job 4 | Total Plugins: 1
+2023-10-01 12:31:15.638 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 12:31:15.651 +01:00 [DBG] Added 54 project references
+2023-10-01 12:31:15.681 +01:00 [DBG] Added 1 plugins to the project
+2023-10-01 12:31:16.017 +01:00 [INF] Successfully compiled 1/1 plugins for job 4 in 380ms
+2023-10-01 12:31:16.017 +01:00 [DBG] Pushing job 4 back to parent
+2023-10-01 12:31:16.019 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 12:31:17.019 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 12:49:47.061 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 12:49:47.074 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 12:49:47.080 +01:00 [INF] Watching parent process ([72437] RustDedicated) for shutdown
+2023-10-01 12:49:47.080 +01:00 [DBG] Started message server. . .
+2023-10-01 12:49:47.080 +01:00 [INF] Message server has started
+2023-10-01 12:49:49.077 +01:00 [INF] Sent ready message to parent process
+2023-10-01 12:49:49.078 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 12:49:49.146 +01:00 [DBG] Received compile job 5 | Plugins: 5, References: 55
+2023-10-01 12:49:50.082 +01:00 [INF] Starting compilation of job 5 | Total Plugins: 5
+2023-10-01 12:49:50.082 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 12:49:50.096 +01:00 [DBG] Added 55 project references
+2023-10-01 12:49:50.151 +01:00 [DBG] Added 5 plugins to the project
+2023-10-01 12:49:50.838 +01:00 [INF] Successfully compiled 5/5 plugins for job 5 in 755ms
+2023-10-01 12:49:50.838 +01:00 [DBG] Pushing job 5 back to parent
+2023-10-01 12:49:50.839 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 12:49:51.840 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 13:03:36.891 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 13:03:36.904 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 13:03:36.910 +01:00 [INF] Watching parent process ([72437] RustDedicated) for shutdown
+2023-10-01 13:03:36.910 +01:00 [DBG] Started message server. . .
+2023-10-01 13:03:36.910 +01:00 [INF] Message server has started
+2023-10-01 13:03:38.912 +01:00 [INF] Sent ready message to parent process
+2023-10-01 13:03:38.913 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 13:03:38.979 +01:00 [DBG] Received compile job 6 | Plugins: 1, References: 54
+2023-10-01 13:03:39.912 +01:00 [INF] Starting compilation of job 6 | Total Plugins: 1
+2023-10-01 13:03:39.912 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 13:03:39.925 +01:00 [DBG] Added 54 project references
+2023-10-01 13:03:39.953 +01:00 [DBG] Added 1 plugins to the project
+2023-10-01 13:03:40.266 +01:00 [INF] Successfully compiled 1/1 plugins for job 6 in 353ms
+2023-10-01 13:03:40.266 +01:00 [DBG] Pushing job 6 back to parent
+2023-10-01 13:03:40.275 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 13:03:41.268 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 13:04:07.345 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 13:04:07.359 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 13:04:07.364 +01:00 [INF] Watching parent process ([72437] RustDedicated) for shutdown
+2023-10-01 13:04:07.364 +01:00 [DBG] Started message server. . .
+2023-10-01 13:04:07.365 +01:00 [INF] Message server has started
+2023-10-01 13:04:09.367 +01:00 [INF] Sent ready message to parent process
+2023-10-01 13:04:09.367 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 13:04:09.433 +01:00 [DBG] Received compile job 7 | Plugins: 5, References: 55
+2023-10-01 13:04:10.368 +01:00 [INF] Starting compilation of job 7 | Total Plugins: 5
+2023-10-01 13:04:10.368 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 13:04:10.381 +01:00 [DBG] Added 55 project references
+2023-10-01 13:04:10.441 +01:00 [DBG] Added 5 plugins to the project
+2023-10-01 13:04:11.113 +01:00 [INF] Successfully compiled 5/5 plugins for job 7 in 745ms
+2023-10-01 13:04:11.113 +01:00 [DBG] Pushing job 7 back to parent
+2023-10-01 13:04:11.115 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 13:04:12.116 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 13:10:45.805 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 13:10:45.819 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 13:10:45.824 +01:00 [INF] Watching parent process ([72437] RustDedicated) for shutdown
+2023-10-01 13:10:45.824 +01:00 [DBG] Started message server. . .
+2023-10-01 13:10:45.825 +01:00 [INF] Message server has started
+2023-10-01 13:10:47.822 +01:00 [INF] Sent ready message to parent process
+2023-10-01 13:10:47.822 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 13:10:48.040 +01:00 [DBG] Received compile job 8 | Plugins: 5, References: 55
+2023-10-01 13:10:48.824 +01:00 [INF] Starting compilation of job 8 | Total Plugins: 5
+2023-10-01 13:10:48.824 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 13:10:48.838 +01:00 [DBG] Added 55 project references
+2023-10-01 13:10:48.895 +01:00 [DBG] Added 5 plugins to the project
+2023-10-01 13:10:49.552 +01:00 [INF] Successfully compiled 5/5 plugins for job 8 in 728ms
+2023-10-01 13:10:49.552 +01:00 [DBG] Pushing job 8 back to parent
+2023-10-01 13:10:49.553 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 13:10:50.550 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 13:11:00.096 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 13:11:00.109 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 13:11:00.115 +01:00 [INF] Watching parent process ([72437] RustDedicated) for shutdown
+2023-10-01 13:11:00.115 +01:00 [DBG] Started message server. . .
+2023-10-01 13:11:00.115 +01:00 [INF] Message server has started
+2023-10-01 13:11:02.117 +01:00 [INF] Sent ready message to parent process
+2023-10-01 13:11:02.117 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 13:11:02.251 +01:00 [DBG] Received compile job 9 | Plugins: 5, References: 55
+2023-10-01 13:11:03.121 +01:00 [INF] Starting compilation of job 9 | Total Plugins: 5
+2023-10-01 13:11:03.121 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 13:11:03.134 +01:00 [DBG] Added 55 project references
+2023-10-01 13:11:03.188 +01:00 [DBG] Added 5 plugins to the project
+2023-10-01 13:11:03.850 +01:00 [INF] Successfully compiled 5/5 plugins for job 9 in 729ms
+2023-10-01 13:11:03.850 +01:00 [DBG] Pushing job 9 back to parent
+2023-10-01 13:11:03.852 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 13:11:04.851 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 13:13:12.386 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 13:13:12.401 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 13:13:12.406 +01:00 [INF] Watching parent process ([72437] RustDedicated) for shutdown
+2023-10-01 13:13:12.407 +01:00 [DBG] Started message server. . .
+2023-10-01 13:13:12.407 +01:00 [INF] Message server has started
+2023-10-01 13:13:14.407 +01:00 [INF] Sent ready message to parent process
+2023-10-01 13:13:14.407 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 13:13:14.546 +01:00 [DBG] Received compile job 10 | Plugins: 1, References: 54
+2023-10-01 13:13:15.408 +01:00 [INF] Starting compilation of job 10 | Total Plugins: 1
+2023-10-01 13:13:15.408 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 13:13:15.421 +01:00 [DBG] Added 54 project references
+2023-10-01 13:13:15.450 +01:00 [DBG] Added 1 plugins to the project
+2023-10-01 13:13:15.764 +01:00 [INF] Successfully compiled 1/1 plugins for job 10 in 356ms
+2023-10-01 13:13:15.764 +01:00 [DBG] Pushing job 10 back to parent
+2023-10-01 13:13:15.765 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 13:13:16.762 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 13:13:29.962 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 13:13:29.976 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 13:13:29.981 +01:00 [INF] Watching parent process ([72437] RustDedicated) for shutdown
+2023-10-01 13:13:29.982 +01:00 [DBG] Started message server. . .
+2023-10-01 13:13:29.982 +01:00 [INF] Message server has started
+2023-10-01 13:13:31.982 +01:00 [INF] Sent ready message to parent process
+2023-10-01 13:13:31.982 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 13:13:32.044 +01:00 [DBG] Received compile job 11 | Plugins: 5, References: 55
+2023-10-01 13:13:32.984 +01:00 [INF] Starting compilation of job 11 | Total Plugins: 5
+2023-10-01 13:13:32.984 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 13:13:32.999 +01:00 [DBG] Added 55 project references
+2023-10-01 13:13:33.056 +01:00 [DBG] Added 5 plugins to the project
+2023-10-01 13:13:33.734 +01:00 [INF] Successfully compiled 5/5 plugins for job 11 in 749ms
+2023-10-01 13:13:33.734 +01:00 [DBG] Pushing job 11 back to parent
+2023-10-01 13:13:33.736 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 13:13:34.736 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 13:21:16.808 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 13:21:16.821 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 13:21:16.827 +01:00 [INF] Watching parent process ([72437] RustDedicated) for shutdown
+2023-10-01 13:21:16.827 +01:00 [DBG] Started message server. . .
+2023-10-01 13:21:16.827 +01:00 [INF] Message server has started
+2023-10-01 13:21:18.829 +01:00 [INF] Sent ready message to parent process
+2023-10-01 13:21:18.829 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 13:21:18.890 +01:00 [DBG] Received compile job 12 | Plugins: 1, References: 54
+2023-10-01 13:21:19.833 +01:00 [INF] Starting compilation of job 12 | Total Plugins: 1
+2023-10-01 13:21:19.834 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 13:21:19.845 +01:00 [DBG] Added 54 project references
+2023-10-01 13:21:19.876 +01:00 [DBG] Added 1 plugins to the project
+2023-10-01 13:21:20.227 +01:00 [INF] Successfully compiled 1/1 plugins for job 12 in 393ms
+2023-10-01 13:21:20.227 +01:00 [DBG] Pushing job 12 back to parent
+2023-10-01 13:21:20.229 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 13:21:21.228 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 14:48:19.598 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 14:48:19.613 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 14:48:19.618 +01:00 [INF] Watching parent process ([72437] RustDedicated) for shutdown
+2023-10-01 14:48:19.618 +01:00 [DBG] Started message server. . .
+2023-10-01 14:48:19.619 +01:00 [INF] Message server has started
+2023-10-01 14:48:21.620 +01:00 [INF] Sent ready message to parent process
+2023-10-01 14:48:21.621 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 14:48:21.698 +01:00 [DBG] Received compile job 13 | Plugins: 4, References: 55
+2023-10-01 14:48:22.624 +01:00 [INF] Starting compilation of job 13 | Total Plugins: 4
+2023-10-01 14:48:22.624 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 14:48:22.639 +01:00 [DBG] Added 55 project references
+2023-10-01 14:48:22.691 +01:00 [DBG] Added 4 plugins to the project
+2023-10-01 14:48:23.340 +01:00 [INF] Successfully compiled 4/4 plugins for job 13 in 715ms
+2023-10-01 14:48:23.340 +01:00 [DBG] Pushing job 13 back to parent
+2023-10-01 14:48:23.344 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 14:48:24.338 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 15:14:37.456 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 15:14:37.470 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 15:14:37.475 +01:00 [INF] Watching parent process ([72437] RustDedicated) for shutdown
+2023-10-01 15:14:37.476 +01:00 [DBG] Started message server. . .
+2023-10-01 15:14:37.476 +01:00 [INF] Message server has started
+2023-10-01 15:14:39.476 +01:00 [INF] Sent ready message to parent process
+2023-10-01 15:14:39.476 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 15:14:39.700 +01:00 [DBG] Received compile job 14 | Plugins: 4, References: 55
+2023-10-01 15:14:40.475 +01:00 [INF] Starting compilation of job 14 | Total Plugins: 4
+2023-10-01 15:14:40.476 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 15:14:40.487 +01:00 [DBG] Added 55 project references
+2023-10-01 15:14:40.544 +01:00 [DBG] Added 4 plugins to the project
+2023-10-01 15:14:41.187 +01:00 [INF] Successfully compiled 4/4 plugins for job 14 in 712ms
+2023-10-01 15:14:41.187 +01:00 [DBG] Pushing job 14 back to parent
+2023-10-01 15:14:41.189 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 15:14:42.187 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 15:35:12.536 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 15:35:12.550 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 15:35:12.555 +01:00 [INF] Watching parent process ([72437] RustDedicated) for shutdown
+2023-10-01 15:35:12.555 +01:00 [DBG] Started message server. . .
+2023-10-01 15:35:12.556 +01:00 [INF] Message server has started
+2023-10-01 15:35:14.557 +01:00 [INF] Sent ready message to parent process
+2023-10-01 15:35:14.557 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 15:35:14.621 +01:00 [DBG] Received compile job 15 | Plugins: 4, References: 54
+2023-10-01 15:35:15.560 +01:00 [INF] Starting compilation of job 15 | Total Plugins: 4
+2023-10-01 15:35:15.560 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 15:35:15.571 +01:00 [DBG] Added 54 project references
+2023-10-01 15:35:15.612 +01:00 [DBG] Added 4 plugins to the project
+2023-10-01 15:35:16.001 +01:00 [INF] Successfully compiled 4/4 plugins for job 15 in 440ms
+2023-10-01 15:35:16.001 +01:00 [DBG] Pushing job 15 back to parent
+2023-10-01 15:35:16.003 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 15:35:17.003 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 15:38:11.956 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 15:38:11.969 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 15:38:11.974 +01:00 [INF] Watching parent process ([72437] RustDedicated) for shutdown
+2023-10-01 15:38:11.974 +01:00 [DBG] Started message server. . .
+2023-10-01 15:38:11.975 +01:00 [INF] Message server has started
+2023-10-01 15:38:13.976 +01:00 [INF] Sent ready message to parent process
+2023-10-01 15:38:13.977 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 15:38:14.036 +01:00 [DBG] Received compile job 16 | Plugins: 1, References: 55
+2023-10-01 15:38:14.981 +01:00 [INF] Starting compilation of job 16 | Total Plugins: 1
+2023-10-01 15:38:14.982 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 15:38:14.995 +01:00 [DBG] Added 55 project references
+2023-10-01 15:38:15.038 +01:00 [DBG] Added 1 plugins to the project
+2023-10-01 15:38:15.670 +01:00 [INF] Successfully compiled 1/1 plugins for job 16 in 689ms
+2023-10-01 15:38:15.670 +01:00 [DBG] Pushing job 16 back to parent
+2023-10-01 15:38:15.672 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 15:38:16.672 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 15:51:20.717 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 15:51:20.730 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 15:51:20.735 +01:00 [INF] Watching parent process ([72437] RustDedicated) for shutdown
+2023-10-01 15:51:20.736 +01:00 [DBG] Started message server. . .
+2023-10-01 15:51:20.736 +01:00 [INF] Message server has started
+2023-10-01 15:51:22.737 +01:00 [INF] Sent ready message to parent process
+2023-10-01 15:51:22.737 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 15:51:22.800 +01:00 [DBG] Received compile job 17 | Plugins: 3, References: 54
+2023-10-01 15:51:23.741 +01:00 [INF] Starting compilation of job 17 | Total Plugins: 3
+2023-10-01 15:51:23.742 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 15:51:23.754 +01:00 [DBG] Added 54 project references
+2023-10-01 15:51:23.788 +01:00 [DBG] Added 3 plugins to the project
+2023-10-01 15:51:24.165 +01:00 [INF] Successfully compiled 3/3 plugins for job 17 in 423ms
+2023-10-01 15:51:24.165 +01:00 [DBG] Pushing job 17 back to parent
+2023-10-01 15:51:24.166 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 15:51:25.163 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 15:55:25.734 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 15:55:25.748 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 15:55:25.753 +01:00 [INF] Watching parent process ([72437] RustDedicated) for shutdown
+2023-10-01 15:55:25.753 +01:00 [DBG] Started message server. . .
+2023-10-01 15:55:25.753 +01:00 [INF] Message server has started
+2023-10-01 15:55:27.753 +01:00 [INF] Sent ready message to parent process
+2023-10-01 15:55:27.753 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 15:55:27.869 +01:00 [DBG] Received compile job 18 | Plugins: 3, References: 54
+2023-10-01 15:55:28.758 +01:00 [INF] Starting compilation of job 18 | Total Plugins: 3
+2023-10-01 15:55:28.758 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 15:55:28.769 +01:00 [DBG] Added 54 project references
+2023-10-01 15:55:28.809 +01:00 [DBG] Added 3 plugins to the project
+2023-10-01 15:55:29.216 +01:00 [INF] Successfully compiled 3/3 plugins for job 18 in 458ms
+2023-10-01 15:55:29.216 +01:00 [DBG] Pushing job 18 back to parent
+2023-10-01 15:55:29.217 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 15:55:30.215 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 20:19:03.361 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 20:19:03.375 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 20:19:03.383 +01:00 [INF] Watching parent process ([72437] RustDedicated) for shutdown
+2023-10-01 20:19:03.383 +01:00 [DBG] Started message server. . .
+2023-10-01 20:19:03.383 +01:00 [INF] Message server has started
+2023-10-01 20:19:05.385 +01:00 [INF] Sent ready message to parent process
+2023-10-01 20:19:05.385 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 20:19:05.453 +01:00 [DBG] Received compile job 19 | Plugins: 1, References: 54
+2023-10-01 20:19:06.389 +01:00 [INF] Starting compilation of job 19 | Total Plugins: 1
+2023-10-01 20:19:06.389 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 20:19:06.402 +01:00 [DBG] Added 54 project references
+2023-10-01 20:19:06.435 +01:00 [DBG] Added 1 plugins to the project
+2023-10-01 20:19:06.784 +01:00 [INF] Successfully compiled 1/1 plugins for job 19 in 395ms
+2023-10-01 20:19:06.784 +01:00 [DBG] Pushing job 19 back to parent
+2023-10-01 20:19:06.786 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 20:19:07.783 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 20:25:00.953 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 20:25:00.967 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 20:25:00.973 +01:00 [INF] Watching parent process ([72437] RustDedicated) for shutdown
+2023-10-01 20:25:00.973 +01:00 [DBG] Started message server. . .
+2023-10-01 20:25:00.973 +01:00 [INF] Message server has started
+2023-10-01 20:25:02.973 +01:00 [INF] Sent ready message to parent process
+2023-10-01 20:25:02.974 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 20:25:03.040 +01:00 [DBG] Received compile job 20 | Plugins: 3, References: 54
+2023-10-01 20:25:03.976 +01:00 [INF] Starting compilation of job 20 | Total Plugins: 3
+2023-10-01 20:25:03.977 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 20:25:03.991 +01:00 [DBG] Added 54 project references
+2023-10-01 20:25:04.030 +01:00 [DBG] Added 3 plugins to the project
+2023-10-01 20:25:04.450 +01:00 [INF] Successfully compiled 3/3 plugins for job 20 in 474ms
+2023-10-01 20:25:04.450 +01:00 [DBG] Pushing job 20 back to parent
+2023-10-01 20:25:04.452 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 20:25:05.452 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 20:31:23.217 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 20:31:23.231 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 20:31:23.237 +01:00 [INF] Watching parent process ([72437] RustDedicated) for shutdown
+2023-10-01 20:31:23.237 +01:00 [DBG] Started message server. . .
+2023-10-01 20:31:23.237 +01:00 [INF] Message server has started
+2023-10-01 20:31:25.238 +01:00 [INF] Sent ready message to parent process
+2023-10-01 20:31:25.238 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 20:31:25.360 +01:00 [DBG] Received compile job 21 | Plugins: 3, References: 54
+2023-10-01 20:31:26.242 +01:00 [INF] Starting compilation of job 21 | Total Plugins: 3
+2023-10-01 20:31:26.242 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 20:31:26.255 +01:00 [DBG] Added 54 project references
+2023-10-01 20:31:26.290 +01:00 [DBG] Added 3 plugins to the project
+2023-10-01 20:31:26.693 +01:00 [INF] Successfully compiled 3/3 plugins for job 21 in 451ms
+2023-10-01 20:31:26.693 +01:00 [DBG] Pushing job 21 back to parent
+2023-10-01 20:31:26.694 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 20:31:27.695 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 20:33:38.878 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 20:33:38.891 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 20:33:38.896 +01:00 [INF] Watching parent process ([72437] RustDedicated) for shutdown
+2023-10-01 20:33:38.897 +01:00 [DBG] Started message server. . .
+2023-10-01 20:33:38.897 +01:00 [INF] Message server has started
+2023-10-01 20:33:40.901 +01:00 [INF] Sent ready message to parent process
+2023-10-01 20:33:40.901 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 20:33:41.023 +01:00 [DBG] Received compile job 22 | Plugins: 3, References: 54
+2023-10-01 20:33:41.905 +01:00 [INF] Starting compilation of job 22 | Total Plugins: 3
+2023-10-01 20:33:41.906 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 20:33:41.917 +01:00 [DBG] Added 54 project references
+2023-10-01 20:33:41.955 +01:00 [DBG] Added 3 plugins to the project
+2023-10-01 20:33:42.369 +01:00 [INF] Successfully compiled 3/3 plugins for job 22 in 463ms
+2023-10-01 20:33:42.369 +01:00 [DBG] Pushing job 22 back to parent
+2023-10-01 20:33:42.370 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 20:33:43.371 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 20:38:30.219 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 20:38:30.233 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 20:38:30.239 +01:00 [INF] Watching parent process ([72437] RustDedicated) for shutdown
+2023-10-01 20:38:30.239 +01:00 [DBG] Started message server. . .
+2023-10-01 20:38:30.239 +01:00 [INF] Message server has started
+2023-10-01 20:38:32.238 +01:00 [INF] Sent ready message to parent process
+2023-10-01 20:38:32.238 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 20:38:32.303 +01:00 [DBG] Received compile job 23 | Plugins: 3, References: 54
+2023-10-01 20:38:33.241 +01:00 [INF] Starting compilation of job 23 | Total Plugins: 3
+2023-10-01 20:38:33.241 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 20:38:33.252 +01:00 [DBG] Added 54 project references
+2023-10-01 20:38:33.292 +01:00 [DBG] Added 3 plugins to the project
+2023-10-01 20:38:33.734 +01:00 [INF] Successfully compiled 3/3 plugins for job 23 in 493ms
+2023-10-01 20:38:33.734 +01:00 [DBG] Pushing job 23 back to parent
+2023-10-01 20:38:33.735 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 20:38:34.735 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-01 22:26:21.087 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-01 22:26:21.102 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-01 22:26:21.107 +01:00 [INF] Watching parent process ([72437] RustDedicated) for shutdown
+2023-10-01 22:26:21.108 +01:00 [DBG] Started message server. . .
+2023-10-01 22:26:21.108 +01:00 [INF] Message server has started
+2023-10-01 22:26:23.109 +01:00 [INF] Sent ready message to parent process
+2023-10-01 22:26:23.109 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-01 22:26:23.176 +01:00 [DBG] Received compile job 24 | Plugins: 1, References: 54
+2023-10-01 22:26:24.113 +01:00 [INF] Starting compilation of job 24 | Total Plugins: 1
+2023-10-01 22:26:24.114 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-01 22:26:24.127 +01:00 [DBG] Added 54 project references
+2023-10-01 22:26:24.177 +01:00 [DBG] Added 1 plugins to the project
+2023-10-01 22:26:24.708 +01:00 [INF] Successfully compiled 1/1 plugins for job 24 in 594ms
+2023-10-01 22:26:24.708 +01:00 [DBG] Pushing job 24 back to parent
+2023-10-01 22:26:24.710 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-01 22:26:25.708 +01:00 [INF] Termination request has been received from SIGTERM

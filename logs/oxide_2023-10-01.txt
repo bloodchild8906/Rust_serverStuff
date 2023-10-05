@@ -1,0 +1,1286 @@
+00:39 [Info] Loading Oxide Core v2.0.4070...
+00:39 [Info] Loading extensions...
+00:39 [Info] Loaded extension CSharp v2.0.4112 by Oxide Team and Contributors
+00:39 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+00:39 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+00:39 [Info] Unity version: 2021.3.29f1
+00:39 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+00:39 [Info] Loaded extension Rust v2.0.6023 by Oxide Team and Contributors
+00:39 [Info] Loaded extension Discord v2.1.9 by PsychoTea & DylanSMR & Tricky & Kirollos & MJSU
+00:39 [Info] [CSharp] Checking for updates for Oxide.Compiler | Local MD5: 3a0143f758249e0795072ff168a1197f | Last modified: 2023-09-29 19:07:47
+00:39 [Info] [CSharp] Oxide.Compiler is up to date
+00:39 [Info] File permissions set for Oxide.Compiler
+00:39 [Info] Using Covalence provider for game 'Rust'
+00:39 [Info] Loading plugins...
+00:39 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+00:39 [Info] Loaded plugin Rust v2.0.6023 by Oxide Team and Contributors
+00:39 [Info] [CSharp] Started Oxide.Compiler v successfully
+00:40 [Info] Shutting down compiler because no more jobs
+00:40 [Info] StackSizeController, Rustcord, NoGiveNotices and FurnaceSplitter were compiled successfully in 0ms
+00:40 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+00:40 [Info] Compiler shutdown completed
+00:40 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+00:40 [Warning] [Rustcord] Attempting to create default config...
+00:40 [Error] [Rustcord] API key is empty or invalid!
+00:40 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+00:40 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+00:40 [Info] Loaded plugin Furnace Splitter v2.5.2 by FastBurst
+00:44 [Info] IP address from command-line: 213.171.194.247
+00:56 [Info] [CSharp] Started Oxide.Compiler v successfully
+00:57 [Info] Shutting down compiler because no more jobs
+00:57 [Info] Rustcord was compiled successfully in 1708ms
+00:57 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+00:57 [Error] [Rustcord] API key is empty or invalid!
+00:57 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+00:57 [Info] Compiler shutdown completed
+01:01 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+01:01 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+01:01 [Info] [Discord Extension] [Info]: Discord socket opened!
+01:01 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+01:20 [Info] [CSharp] Started Oxide.Compiler v successfully
+01:20 [Info] Shutting down compiler because no more jobs
+01:20 [Info] GatherManager was compiled successfully in 1440ms
+01:20 [Warning] [Gather Manager] New configuration file created.
+01:20 [Warning] [Gather Manager] Configuration file updated.
+01:20 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 251ms
+01:20 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+01:20 [Info] Compiler shutdown completed
+01:20 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 242ms
+01:20 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+01:20 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 244ms
+01:20 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+01:24 [Warning] [Rustcord] Rustcord failed to fetch channel! (chan_id=). Guild is invalid.
+01:24 [Warning] [Rustcord] Rustcord failed to fetch channel! (chan_id=). Guild is invalid.
+01:26 [Error] Could not load plugin 'GatherManager*2' (no plugin found with that file name)
+01:29 [Warning] [Rustcord] Rustcord failed to fetch channel! (chan_id=). Guild is invalid.
+01:29 [Warning] [Rustcord] Rustcord failed to fetch channel! (chan_id=). Guild is invalid.
+01:29 [Warning] [Rustcord] Rustcord failed to fetch channel! (chan_id=). Guild is invalid.
+01:30 [Warning] [Rustcord] Rustcord failed to fetch channel! (chan_id=). Guild is invalid.
+01:38 [Warning] [Rustcord] Rustcord failed to fetch channel! (chan_id=). Guild is invalid.
+01:54 [Info] [CSharp] Started Oxide.Compiler v successfully
+01:54 [Info] Shutting down compiler because no more jobs
+01:54 [Info] StackSizeController was compiled successfully in 1373ms
+01:54 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+01:54 [Warning] Calling 'Unload' on 'StackSizeController v4.1.2' took 326ms [GARBAGE COLLECT]
+01:54 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+01:54 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+01:54 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+01:54 [Info] Compiler shutdown completed
+03:19 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+03:19 [Info] [Discord Extension] [Info]: Discord socket opened!
+03:19 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+04:03 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+04:03 [Info] [Discord Extension] [Info]: Discord socket opened!
+04:03 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+06:28 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+06:28 [Info] [Discord Extension] [Info]: Discord socket opened!
+06:28 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+09:52 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+09:52 [Info] [Discord Extension] [Info]: Discord socket opened!
+09:52 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+11:07 [Error] Could not load plugin 'LootTables' (no plugin found with that file name)
+11:09 [Error] Could not load plugin 'loottables' (no plugin found with that file name)
+11:10 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+11:10 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+11:10 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+11:10 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+11:10 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+11:10 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+11:10 [Info] [Discord Extension] [Info]: Discord socket opened!
+11:10 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 259ms
+11:10 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+11:10 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 256ms
+11:10 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+11:10 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+11:10 [Info] [CSharp] Started Oxide.Compiler v successfully
+11:10 [Info] Shutting down compiler because no more jobs
+11:10 [Info] NoGiveNotices and FurnaceSplitter were compiled successfully in 1535ms
+11:10 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+11:10 [Info] Unloaded plugin Furnace Splitter v2.5.2 by FastBurst
+11:10 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+11:10 [Info] Loaded plugin Furnace Splitter v2.5.2 by FastBurst
+11:10 [Info] Compiler shutdown completed
+11:18 [Info] [CSharp] Started Oxide.Compiler v successfully
+11:18 [Info] Shutting down compiler because no more jobs
+11:18 [Info] BetterLoot was compiled successfully in 1438ms
+11:18 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+11:18 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+11:18 [Info] [BetterLoot] No Blacklist found, creating new file...
+11:18 [Info] [BetterLoot] Using '54' active of '56' supported containertypes
+11:18 [Info] [BetterLoot] Exported 829 items to 'NamesList'
+11:18 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+11:18 [Info] [BetterLoot] Updating internals ...
+11:18 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+11:18 [Info] [BetterLoot] Removed 13 stacked LootContainer
+11:18 [Info] Compiler shutdown completed
+11:18 [Info] [BetterLoot] Populated '10886' supported containers.
+11:20 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+11:20 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+11:20 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+11:20 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+11:20 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+11:20 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+11:20 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+11:20 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+11:20 [Info] [Discord Extension] [Info]: Discord socket opened!
+11:20 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 260ms
+11:20 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+11:20 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+11:20 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 255ms
+11:20 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+11:20 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 282ms
+11:20 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+11:20 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+11:20 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+11:20 [Info] [BetterLoot] Using '54' active of '56' supported containertypes
+11:20 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+11:20 [Info] [BetterLoot] Updating internals ...
+11:20 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+11:20 [Info] [CSharp] Started Oxide.Compiler v successfully
+11:20 [Info] [BetterLoot] No stacked LootContainer found.
+11:20 [Info] [BetterLoot] Populated '10894' supported containers.
+11:20 [Info] Shutting down compiler because no more jobs
+11:20 [Info] FurnaceSplitter was compiled successfully in 1477ms
+11:20 [Info] Unloaded plugin Furnace Splitter v2.5.2 by FastBurst
+11:20 [Info] Loaded plugin Furnace Splitter v2.5.2 by FastBurst
+11:20 [Info] Compiler shutdown completed
+11:21 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 254ms
+11:21 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+11:23 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+11:23 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+11:23 [Info] [BetterLoot] Using '54' active of '56' supported containertypes
+11:23 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+11:23 [Info] [BetterLoot] Updating internals ...
+11:23 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+11:23 [Info] [BetterLoot] Removed 1 stacked LootContainer
+11:23 [Info] [BetterLoot] Populated '10894' supported containers.
+11:23 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+11:23 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+11:23 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+11:23 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+11:23 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+11:23 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+11:23 [Info] Unloaded plugin Furnace Splitter v2.5.2 by FastBurst
+11:23 [Info] Loaded plugin Furnace Splitter v2.5.2 by FastBurst
+11:23 [Info] [Discord Extension] [Info]: Discord socket opened!
+11:23 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 257ms
+11:23 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+11:23 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+11:23 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 248ms
+11:23 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+11:23 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 249ms
+11:23 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+11:23 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+11:23 [Info] [BetterLoot] Using '54' active of '56' supported containertypes
+11:23 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+11:23 [Info] [BetterLoot] Updating internals ...
+11:23 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+11:23 [Info] [CSharp] Started Oxide.Compiler v successfully
+11:23 [Info] [BetterLoot] No stacked LootContainer found.
+11:23 [Info] [BetterLoot] Populated '10894' supported containers.
+11:23 [Info] Shutting down compiler because no more jobs
+11:23 [Info] NoGiveNotices was compiled successfully in 1285ms
+11:23 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+11:23 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+11:23 [Info] Compiler shutdown completed
+11:29 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+11:29 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+11:29 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+11:29 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+11:29 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+11:29 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+11:29 [Info] Unloaded plugin Furnace Splitter v2.5.2 by FastBurst
+11:29 [Info] Loaded plugin Furnace Splitter v2.5.2 by FastBurst
+11:29 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+11:29 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+11:29 [Info] [Discord Extension] [Info]: Discord socket opened!
+11:29 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 242ms
+11:29 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+11:29 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+11:29 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 237ms
+11:29 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+11:29 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 237ms
+11:29 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+11:29 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+11:29 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+11:29 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+11:29 [Info] [BetterLoot] Updating internals ...
+11:29 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+11:29 [Info] [BetterLoot] Removed 1 stacked LootContainer
+11:29 [Info] [BetterLoot] Populated '10880' supported containers.
+11:52 [Warning] [Rustcord] Rustcord failed to fetch channel! (chan_id=). Guild is invalid.
+11:52 [Warning] [Rustcord] Rustcord failed to fetch channel! (chan_id=). Guild is invalid.
+12:07 [Warning] [Rustcord] Rustcord failed to fetch channel! (chan_id=). Guild is invalid.
+12:07 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+12:07 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+12:07 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+12:07 [Info] Unloaded plugin Furnace Splitter v2.5.2 by FastBurst
+12:07 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+12:07 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 252ms
+12:07 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+12:07 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 250ms
+12:07 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+12:08 [Info] Loading Oxide Core v2.0.4070...
+12:08 [Info] Loading extensions...
+12:08 [Info] Loaded extension CSharp v2.0.4112 by Oxide Team and Contributors
+12:08 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+12:08 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+12:08 [Info] Unity version: 2021.3.29f1
+12:08 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+12:08 [Info] Loaded extension Rust v2.0.6023 by Oxide Team and Contributors
+12:08 [Info] Loaded extension Discord v2.1.9 by PsychoTea & DylanSMR & Tricky & Kirollos & MJSU
+12:08 [Info] [CSharp] Checking for updates for Oxide.Compiler | Local MD5: 3a0143f758249e0795072ff168a1197f | Last modified: 2023-09-29 19:07:47
+12:08 [Info] [CSharp] Oxide.Compiler is up to date
+12:08 [Info] File permissions set for Oxide.Compiler
+12:08 [Info] Using Covalence provider for game 'Rust'
+12:08 [Info] Loading plugins...
+12:08 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+12:08 [Info] Loaded plugin Rust v2.0.6023 by Oxide Team and Contributors
+12:08 [Info] [CSharp] Started Oxide.Compiler v successfully
+12:08 [Info] Shutting down compiler because no more jobs
+12:08 [Info] StackSizeController, Rustcord, NoGiveNotices, GatherManager, FurnaceSplitter and BetterLoot were compiled successfully in 0ms
+12:08 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+12:08 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+12:08 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+12:08 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+12:08 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+12:08 [Info] Loaded plugin Furnace Splitter v2.5.2 by FastBurst
+12:08 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+12:08 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+12:08 [Info] [Discord Extension] [Info]: Discord socket opened!
+12:08 [Info] Compiler shutdown completed
+12:08 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+12:12 [Info] IP address from command-line: 213.171.194.247
+12:12 [Warning] [Rustcord] Rustcord failed to fetch channel! (chan_id=). Guild is invalid.
+12:12 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 220ms
+12:12 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+12:12 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+12:12 [Info] [BetterLoot] Updating internals ...
+12:12 [Info] [BetterLoot] No stacked LootContainer found.
+12:12 [Info] [BetterLoot] Populated '826' supported containers.
+12:15 [Warning] [Rustcord] Rustcord failed to fetch channel! (chan_id=). Guild is invalid.
+12:15 [Warning] [Rustcord] Rustcord failed to fetch channel! (chan_id=). Guild is invalid.
+12:22 [Warning] [Rustcord] Rustcord failed to fetch channel! (chan_id=). Guild is invalid.
+12:23 [Info] [CSharp] Started Oxide.Compiler v successfully
+12:23 [Info] Shutting down compiler because no more jobs
+12:23 [Info] PermissionsManager was compiled successfully in 1527ms
+12:23 [Info] [PermissionsManager] Creating new config file.
+12:23 [Info] Loaded plugin PermissionsManager v2.0.9 by Steenamaroo
+12:23 [Info] Compiler shutdown completed
+12:23 [Info] Unloaded plugin PermissionsManager v2.0.9 by Steenamaroo
+12:23 [Info] Loaded plugin PermissionsManager v2.0.9 by Steenamaroo
+12:26 [Warning] [Rustcord] Rustcord failed to fetch channel! (chan_id=). Guild is invalid.
+12:26 [Warning] [Rustcord] Rustcord failed to fetch channel! (chan_id=). Guild is invalid.
+12:27 [Info] [CSharp] Started Oxide.Compiler v successfully
+12:27 [Info] Shutting down compiler because no more jobs
+12:27 [Info] Vanish was compiled successfully in 1422ms
+12:27 [Warning] [Vanish] Configuration changes saved to Vanish.json
+12:27 [Info] Loaded plugin Vanish v1.8.0 by Whispers88
+12:27 [Info] Compiler shutdown completed
+12:28 [Info] Unloaded plugin Vanish v1.8.0 by Whispers88
+12:28 [Info] Loaded plugin Vanish v1.8.0 by Whispers88
+12:29 [Info] [CSharp] Started Oxide.Compiler v successfully
+12:29 [Info] Shutting down compiler because no more jobs
+12:29 [Info] EasyAdmin was compiled successfully in 1512ms
+12:29 [Info] Loaded plugin EasyAdmin v1.0.6 by Shady14u
+12:29 [Info] Compiler shutdown completed
+12:29 [Info] Unloaded plugin EasyAdmin v1.0.6 by Shady14u
+12:29 [Info] Loaded plugin EasyAdmin v1.0.6 by Shady14u
+12:31 [Info] [CSharp] Started Oxide.Compiler v successfully
+12:31 [Info] Shutting down compiler because no more jobs
+12:31 [Info] QuickSmelt was compiled successfully in 1378ms
+12:31 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 259ms
+12:31 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+12:31 [Info] Compiler shutdown completed
+12:31 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 249ms
+12:31 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+12:31 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 251ms
+12:31 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+12:36 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 245ms
+12:36 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+12:36 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 249ms
+12:36 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+12:49 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 255ms
+12:49 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+12:49 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+12:49 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+12:49 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+12:49 [Info] [BetterLoot] Updating internals ...
+12:49 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+12:49 [Info] Unloaded plugin PermissionsManager v2.0.9 by Steenamaroo
+12:49 [Info] Loaded plugin PermissionsManager v2.0.9 by Steenamaroo
+12:49 [Info] Unloaded plugin Vanish v1.8.0 by Whispers88
+12:49 [Info] Loaded plugin Vanish v1.8.0 by Whispers88
+12:49 [Info] Unloaded plugin EasyAdmin v1.0.6 by Shady14u
+12:49 [Info] Loaded plugin EasyAdmin v1.0.6 by Shady14u
+12:49 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 258ms
+12:49 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+12:49 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 249ms
+12:49 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+12:49 [Info] [CSharp] Started Oxide.Compiler v successfully
+12:49 [Info] [BetterLoot] Removed 9 stacked LootContainer
+12:49 [Info] [BetterLoot] Populated '9856' supported containers.
+12:49 [Info] Shutting down compiler because no more jobs
+12:49 [Info] StackSizeController, Rustcord, NoGiveNotices, GatherManager and FurnaceSplitter were compiled successfully in 1755ms
+12:49 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+12:49 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+12:49 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+12:49 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+12:49 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 252ms
+12:49 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+12:49 [Info] Unloaded plugin Furnace Splitter v2.5.2 by FastBurst
+12:49 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+12:49 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+12:49 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+12:49 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+12:49 [Info] [Discord Extension] [Info]: Discord socket opened!
+12:49 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 245ms
+12:49 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+12:49 [Info] Loaded plugin Furnace Splitter v2.5.2 by FastBurst
+12:49 [Info] Compiler shutdown completed
+12:49 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+13:03 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 256ms
+13:03 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+13:03 [Info] [CSharp] Started Oxide.Compiler v successfully
+13:03 [Info] Shutting down compiler because no more jobs
+13:03 [Info] QuickSmelt was compiled successfully in 1334ms
+13:03 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.12' took 258ms
+13:03 [Info] Loaded plugin Quick Smelt v5.1.12 by misticos + WhiteThunder
+13:03 [Info] Compiler shutdown completed
+13:04 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+13:04 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+13:04 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+13:04 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+13:04 [Info] Unloaded plugin PermissionsManager v2.0.9 by Steenamaroo
+13:04 [Info] Loaded plugin PermissionsManager v2.0.9 by Steenamaroo
+13:04 [Info] Unloaded plugin Vanish v1.8.0 by Whispers88
+13:04 [Info] Loaded plugin Vanish v1.8.0 by Whispers88
+13:04 [Info] Unloaded plugin EasyAdmin v1.0.6 by Shady14u
+13:04 [Info] Loaded plugin EasyAdmin v1.0.6 by Shady14u
+13:04 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.12' took 282ms
+13:04 [Info] Unloaded plugin Quick Smelt v5.1.12 by misticos + WhiteThunder
+13:04 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.12' took 275ms
+13:04 [Info] Loaded plugin Quick Smelt v5.1.12 by misticos + WhiteThunder
+13:04 [Info] [CSharp] Started Oxide.Compiler v successfully
+13:04 [Info] Shutting down compiler because no more jobs
+13:04 [Info] FurnaceSplitter, GatherManager, NoGiveNotices, Rustcord and BetterLoot were compiled successfully in 1744ms
+13:04 [Info] Unloaded plugin Furnace Splitter v2.5.2 by FastBurst
+13:04 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 258ms
+13:04 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+13:04 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+13:04 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+13:04 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 265ms
+13:04 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+13:04 [Info] Loaded plugin Furnace Splitter v2.5.2 by FastBurst
+13:04 [Info] Compiler shutdown completed
+13:04 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 265ms
+13:04 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+13:04 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+13:04 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+13:04 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+13:04 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+13:04 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+13:04 [Info] [BetterLoot] Updating internals ...
+13:04 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+13:04 [Info] [Discord Extension] [Info]: Discord socket opened!
+13:04 [Info] [BetterLoot] No stacked LootContainer found.
+13:04 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+13:04 [Info] [BetterLoot] Populated '9954' supported containers.
+13:05 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.12' took 270ms
+13:05 [Info] Unloaded plugin Quick Smelt v5.1.12 by misticos + WhiteThunder
+13:05 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.12' took 269ms
+13:05 [Info] Loaded plugin Quick Smelt v5.1.12 by misticos + WhiteThunder
+13:10 [Info] Unloaded plugin Furnace Splitter v2.5.2 by FastBurst
+13:10 [Info] Loaded plugin Furnace Splitter v2.5.2 by FastBurst
+13:10 [Info] Unloaded plugin PermissionsManager v2.0.9 by Steenamaroo
+13:10 [Info] Loaded plugin PermissionsManager v2.0.9 by Steenamaroo
+13:10 [Info] Unloaded plugin Vanish v1.8.0 by Whispers88
+13:10 [Info] Loaded plugin Vanish v1.8.0 by Whispers88
+13:10 [Info] Unloaded plugin EasyAdmin v1.0.6 by Shady14u
+13:10 [Info] Loaded plugin EasyAdmin v1.0.6 by Shady14u
+13:10 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.12' took 262ms
+13:10 [Info] Unloaded plugin Quick Smelt v5.1.12 by misticos + WhiteThunder
+13:10 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.12' took 252ms
+13:10 [Info] Loaded plugin Quick Smelt v5.1.12 by misticos + WhiteThunder
+13:10 [Info] [CSharp] Started Oxide.Compiler v successfully
+13:10 [Info] Shutting down compiler because no more jobs
+13:10 [Info] BetterLoot, Rustcord, NoGiveNotices, GatherManager and StackSizeController were compiled successfully in 1727ms
+13:10 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 254ms
+13:10 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+13:10 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+13:10 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+13:10 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 270ms
+13:10 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+13:10 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+13:10 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+13:10 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+13:10 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+13:10 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+13:10 [Info] [BetterLoot] Updating internals ...
+13:10 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+13:10 [Info] Compiler shutdown completed
+13:10 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+13:10 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+13:10 [Info] [Discord Extension] [Info]: Discord socket opened!
+13:10 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 249ms
+13:10 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+13:10 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+13:10 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+13:10 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+13:10 [Info] [BetterLoot] No stacked LootContainer found.
+13:10 [Info] [BetterLoot] Populated '10082' supported containers.
+13:10 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 251ms
+13:10 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+13:10 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+13:10 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+13:10 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+13:10 [Info] [BetterLoot] Updating internals ...
+13:10 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+13:10 [Info] Unloaded plugin PermissionsManager v2.0.9 by Steenamaroo
+13:10 [Info] Loaded plugin PermissionsManager v2.0.9 by Steenamaroo
+13:10 [Info] Unloaded plugin Vanish v1.8.0 by Whispers88
+13:10 [Info] Loaded plugin Vanish v1.8.0 by Whispers88
+13:10 [Info] Unloaded plugin EasyAdmin v1.0.6 by Shady14u
+13:10 [Info] Loaded plugin EasyAdmin v1.0.6 by Shady14u
+13:10 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.12' took 265ms
+13:10 [Info] Unloaded plugin Quick Smelt v5.1.12 by misticos + WhiteThunder
+13:10 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.12' took 269ms
+13:10 [Info] Loaded plugin Quick Smelt v5.1.12 by misticos + WhiteThunder
+13:10 [Info] [CSharp] Started Oxide.Compiler v successfully
+13:11 [Info] [BetterLoot] No stacked LootContainer found.
+13:11 [Info] [BetterLoot] Populated '10084' supported containers.
+13:11 [Info] Shutting down compiler because no more jobs
+13:11 [Info] StackSizeController, GatherManager, NoGiveNotices, Rustcord and FurnaceSplitter were compiled successfully in 1728ms
+13:11 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+13:11 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+13:11 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 256ms
+13:11 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+13:11 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+13:11 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+13:11 [Info] Unloaded plugin Furnace Splitter v2.5.2 by FastBurst
+13:11 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+13:11 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+13:11 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 257ms
+13:11 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+13:11 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+13:11 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+13:11 [Info] Loaded plugin Furnace Splitter v2.5.2 by FastBurst
+13:11 [Info] Compiler shutdown completed
+13:11 [Info] [Discord Extension] [Info]: Discord socket opened!
+13:11 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+13:13 [Info] [CSharp] Started Oxide.Compiler v successfully
+13:13 [Info] Shutting down compiler because no more jobs
+13:13 [Info] QuickSmelt was compiled successfully in 1350ms
+13:13 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.12' took 587ms [GARBAGE COLLECT]
+13:13 [Info] Unloaded plugin Quick Smelt v5.1.12 by misticos + WhiteThunder
+13:13 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 261ms
+13:13 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+13:13 [Info] Compiler shutdown completed
+13:13 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+13:13 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+13:13 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+13:13 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+13:13 [Info] Unloaded plugin PermissionsManager v2.0.9 by Steenamaroo
+13:13 [Info] Loaded plugin PermissionsManager v2.0.9 by Steenamaroo
+13:13 [Info] Unloaded plugin Vanish v1.8.0 by Whispers88
+13:13 [Info] Loaded plugin Vanish v1.8.0 by Whispers88
+13:13 [Info] Unloaded plugin EasyAdmin v1.0.6 by Shady14u
+13:13 [Info] Loaded plugin EasyAdmin v1.0.6 by Shady14u
+13:13 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 245ms
+13:13 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+13:13 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 245ms
+13:13 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+13:13 [Info] [CSharp] Started Oxide.Compiler v successfully
+13:13 [Info] Shutting down compiler because no more jobs
+13:13 [Info] FurnaceSplitter, Rustcord, NoGiveNotices, GatherManager and BetterLoot were compiled successfully in 1743ms
+13:13 [Warning] Calling 'Unload' on 'FurnaceSplitter v2.5.2' took 376ms [GARBAGE COLLECT]
+13:13 [Info] Unloaded plugin Furnace Splitter v2.5.2 by FastBurst
+13:13 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+13:13 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+13:13 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 278ms
+13:13 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+13:13 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 257ms
+13:13 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+13:13 [Info] Loaded plugin Furnace Splitter v2.5.2 by FastBurst
+13:13 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+13:13 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+13:13 [Info] Compiler shutdown completed
+13:13 [Info] [Discord Extension] [Info]: Discord socket opened!
+13:13 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 255ms
+13:13 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+13:13 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+13:13 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+13:13 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+13:13 [Info] [BetterLoot] Updating internals ...
+13:13 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+13:13 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+13:13 [Info] [BetterLoot] Removed 9 stacked LootContainer
+13:13 [Info] [BetterLoot] Populated '10182' supported containers.
+13:21 [Info] [CSharp] Started Oxide.Compiler v successfully
+13:21 [Info] Shutting down compiler because no more jobs
+13:21 [Info] StackSizeController was compiled successfully in 1391ms
+13:21 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+13:21 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+13:21 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+13:21 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+13:21 [Info] Compiler shutdown completed
+13:27 [Warning] [Rustcord] Rustcord failed to fetch channel! (chan_id=). Guild is invalid.
+13:27 [Warning] [Rustcord] Rustcord failed to fetch channel! (chan_id=). Guild is invalid.
+13:31 [Warning] [Rustcord] Rustcord failed to fetch channel! (chan_id=). Guild is invalid.
+13:42 [Warning] [Rustcord] Rustcord failed to fetch channel! (chan_id=). Guild is invalid.
+13:53 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 240ms
+13:53 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+13:53 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 240ms
+13:53 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+14:03 [Warning] [Rustcord] Rustcord failed to fetch channel! (chan_id=). Guild is invalid.
+14:03 [Warning] [Rustcord] Rustcord failed to fetch channel! (chan_id=). Guild is invalid.
+14:10 [Warning] [Rustcord] Rustcord failed to fetch channel! (chan_id=). Guild is invalid.
+14:11 [Warning] [Rustcord] Rustcord failed to fetch channel! (chan_id=). Guild is invalid.
+14:11 [Warning] [Rustcord] Rustcord failed to fetch channel! (chan_id=). Guild is invalid.
+14:48 [Info] Unloaded plugin Furnace Splitter v2.5.2 by FastBurst
+14:48 [Info] Loaded plugin Furnace Splitter v2.5.2 by FastBurst
+14:48 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+14:48 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+14:48 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+14:48 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+14:48 [Info] Unloaded plugin PermissionsManager v2.0.9 by Steenamaroo
+14:48 [Info] Loaded plugin PermissionsManager v2.0.9 by Steenamaroo
+14:48 [Info] Unloaded plugin Vanish v1.8.0 by Whispers88
+14:48 [Info] Loaded plugin Vanish v1.8.0 by Whispers88
+14:48 [Info] Unloaded plugin EasyAdmin v1.0.6 by Shady14u
+14:48 [Info] Loaded plugin EasyAdmin v1.0.6 by Shady14u
+14:48 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 233ms
+14:48 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+14:48 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 237ms
+14:48 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+14:48 [Info] [CSharp] Started Oxide.Compiler v successfully
+14:48 [Info] Shutting down compiler because no more jobs
+14:48 [Info] BetterLoot, GatherManager, NoGiveNotices and Rustcord were compiled successfully in 1729ms
+14:48 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 239ms
+14:48 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+14:48 [Info] Compiler shutdown completed
+14:48 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 255ms
+14:48 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+14:48 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+14:48 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+14:48 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+14:48 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+14:48 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+14:48 [Info] [BetterLoot] Updating internals ...
+14:48 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+14:48 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 244ms
+14:48 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+14:48 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+14:48 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+14:48 [Info] [Discord Extension] [Info]: Discord socket opened!
+14:48 [Info] [BetterLoot] Removed 10 stacked LootContainer
+14:48 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+14:48 [Info] [BetterLoot] Populated '10106' supported containers.
+15:13 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+15:13 [Info] [Discord Extension] [Info]: Discord socket opened!
+15:13 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+15:14 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 268ms
+15:14 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+15:14 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+15:14 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+15:14 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+15:14 [Info] [BetterLoot] Updating internals ...
+15:14 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+15:14 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+15:14 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+15:14 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+15:14 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+15:14 [Info] Unloaded plugin PermissionsManager v2.0.9 by Steenamaroo
+15:14 [Info] Loaded plugin PermissionsManager v2.0.9 by Steenamaroo
+15:14 [Info] Unloaded plugin Vanish v1.8.0 by Whispers88
+15:14 [Info] Loaded plugin Vanish v1.8.0 by Whispers88
+15:14 [Info] Unloaded plugin EasyAdmin v1.0.6 by Shady14u
+15:14 [Info] Loaded plugin EasyAdmin v1.0.6 by Shady14u
+15:14 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 254ms
+15:14 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+15:14 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 253ms
+15:14 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+15:14 [Info] [CSharp] Started Oxide.Compiler v successfully
+15:14 [Info] [BetterLoot] Removed 7 stacked LootContainer
+15:14 [Info] [BetterLoot] Populated '10850' supported containers.
+15:14 [Info] Shutting down compiler because no more jobs
+15:14 [Info] Rustcord, NoGiveNotices, GatherManager and FurnaceSplitter were compiled successfully in 1720ms
+15:14 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+15:14 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+15:14 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 258ms
+15:14 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+15:14 [Info] Unloaded plugin Furnace Splitter v2.5.2 by FastBurst
+15:14 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+15:14 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+15:14 [Info] [Discord Extension] [Info]: Discord socket opened!
+15:14 [Info] Compiler shutdown completed
+15:14 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 250ms
+15:14 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+15:14 [Info] Loaded plugin Furnace Splitter v2.5.2 by FastBurst
+15:14 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+15:24 [Error] [Discord Extension] [Error]: Tried to send a payload before identifying: ���L���������	ם
+15:24 [Info] [Discord Extension] [Info]: Discord socket opened!
+15:24 [Error] [Discord Extension] [Error]: The plugin is asking for an intent you have not granted your bot. Please complete step 5 @ https://umod.org/extensions/discord#getting-your-api-key
+15:25 [Warning] [Discord Extension] [Warning]: Attempting to reconnect to Discord... [Retry=2]
+15:25 [Info] [Discord Extension] [Info]: Discord socket opened!
+15:25 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+15:35 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+15:35 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+15:35 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+15:35 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+15:35 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+15:35 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+15:35 [Info] Unloaded plugin PermissionsManager v2.0.9 by Steenamaroo
+15:35 [Info] Loaded plugin PermissionsManager v2.0.9 by Steenamaroo
+15:35 [Info] Unloaded plugin Vanish v1.8.0 by Whispers88
+15:35 [Info] Loaded plugin Vanish v1.8.0 by Whispers88
+15:35 [Info] Unloaded plugin EasyAdmin v1.0.6 by Shady14u
+15:35 [Info] Loaded plugin EasyAdmin v1.0.6 by Shady14u
+15:35 [Info] [Discord Extension] [Info]: Discord socket opened!
+15:35 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 254ms
+15:35 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+15:35 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+15:35 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 253ms
+15:35 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+15:35 [Info] [CSharp] Started Oxide.Compiler v successfully
+15:35 [Info] Shutting down compiler because no more jobs
+15:35 [Info] FurnaceSplitter, GatherManager, NoGiveNotices and BetterLoot were compiled successfully in 1436ms
+15:35 [Warning] Calling 'Unload' on 'FurnaceSplitter v2.5.2' took 423ms [GARBAGE COLLECT]
+15:35 [Info] Unloaded plugin Furnace Splitter v2.5.2 by FastBurst
+15:35 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 253ms
+15:35 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+15:35 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+15:35 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 255ms
+15:35 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+15:35 [Info] Loaded plugin Furnace Splitter v2.5.2 by FastBurst
+15:35 [Info] Compiler shutdown completed
+15:35 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 250ms
+15:35 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+15:35 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+15:35 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+15:35 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+15:35 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+15:35 [Info] [BetterLoot] Updating internals ...
+15:35 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+15:35 [Info] [BetterLoot] Removed 5 stacked LootContainer
+15:35 [Info] [BetterLoot] Populated '10490' supported containers.
+15:37 [Error] Could not load plugin 'rustcord' (no plugin found with that file name)
+15:38 [Info] [CSharp] Started Oxide.Compiler v successfully
+15:38 [Info] Shutting down compiler because no more jobs
+15:38 [Info] Rustcord was compiled successfully in 1687ms
+15:38 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+15:38 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+15:38 [Info] [Discord Extension] [Info]: Discord socket opened!
+15:38 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+15:38 [Info] Compiler shutdown completed
+15:41 [Warning] [Rustcord] Rustcord failed to fetch channel! (chan_id=). Guild is invalid.
+15:51 [Info] Unloaded plugin Furnace Splitter v2.5.2 by FastBurst
+15:51 [Info] Loaded plugin Furnace Splitter v2.5.2 by FastBurst
+15:51 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+15:51 [Warning] [Rustcord] Attempting to create default config...
+15:51 [Error] [Rustcord] API key is empty or invalid!
+15:51 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+15:51 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+15:51 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+15:51 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+15:51 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+15:51 [Info] Unloaded plugin PermissionsManager v2.0.9 by Steenamaroo
+15:51 [Info] Loaded plugin PermissionsManager v2.0.9 by Steenamaroo
+15:51 [Info] Unloaded plugin Vanish v1.8.0 by Whispers88
+15:51 [Info] Loaded plugin Vanish v1.8.0 by Whispers88
+15:51 [Info] Unloaded plugin EasyAdmin v1.0.6 by Shady14u
+15:51 [Info] Loaded plugin EasyAdmin v1.0.6 by Shady14u
+15:51 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 248ms
+15:51 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+15:51 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 244ms
+15:51 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+15:51 [Info] [CSharp] Started Oxide.Compiler v successfully
+15:51 [Info] Shutting down compiler because no more jobs
+15:51 [Info] BetterLoot, NoGiveNotices and GatherManager were compiled successfully in 1423ms
+15:51 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 255ms
+15:51 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+15:51 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+15:51 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 246ms
+15:51 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+15:51 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+15:51 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+15:51 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+15:51 [Info] [BetterLoot] Updating internals ...
+15:51 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+15:51 [Info] Compiler shutdown completed
+15:51 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+15:51 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 246ms
+15:51 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+15:51 [Info] [BetterLoot] Removed 11 stacked LootContainer
+15:51 [Info] [BetterLoot] Populated '10024' supported containers.
+15:55 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 253ms
+15:55 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+15:55 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+15:55 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+15:55 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+15:55 [Info] [BetterLoot] Updating internals ...
+15:55 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+15:55 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+15:55 [Error] Rustcord v3.3.2: Failed to load config file (is the config file corrupt?) (Additional text encountered after finished reading JSON content: ,. Path '', line 10, position 3.)
+15:55 [Error] Failed to initialize plugin 'Rustcord v3.3.2' (JsonReaderException: Additional text encountered after finished reading JSON content: ,. Path '', line 10, position 3.)
+  at Newtonsoft.Json.JsonTextReader.Read () [0x000c8] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType, System.Boolean checkAdditionalContent) [0x000d9] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonSerializer.DeserializeInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00053] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonSerializer.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00000] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject (System.String value, System.Type type, Newtonsoft.Json.JsonSerializerSettings settings) [0x0002d] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject[T] (System.String value, Newtonsoft.Json.JsonSerializerSettings settings) [0x00000] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Oxide.Core.Configuration.DynamicConfigFile.ReadObject[T] (System.String filename) [0x00028] in <032ab7611607468ebf42c14e3cf9df20>:0 
+  at Oxide.Plugins.Rustcord.Loaded () [0x00007] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.Rustcord.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x032d6] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e3740cd7ab6f40909737d74eeeaf1a8a>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <032ab7611607468ebf42c14e3cf9df20>:0 
+  at Oxide.Plugins.CSharpPlugin.HandleAddedToManager (Oxide.Core.Plugins.PluginManager manager) [0x000a1] in <e3740cd7ab6f40909737d74eeeaf1a8a>:0 
+15:55 [Error] Failed to call hook 'OnDiscordClientCreated' on plugin 'Rustcord v3.3.2' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Rustcord.OnDiscordClientCreated () [0x00000] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.Rustcord.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00a1c] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e3740cd7ab6f40909737d74eeeaf1a8a>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <032ab7611607468ebf42c14e3cf9df20>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <032ab7611607468ebf42c14e3cf9df20>:0 
+15:55 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+15:55 [Info] Previous version of plugin failed to load: Rustcord
+15:55 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+15:55 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+15:55 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+15:55 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+15:55 [Info] Unloaded plugin PermissionsManager v2.0.9 by Steenamaroo
+15:55 [Info] Loaded plugin PermissionsManager v2.0.9 by Steenamaroo
+15:55 [Info] Unloaded plugin Vanish v1.8.0 by Whispers88
+15:55 [Info] Loaded plugin Vanish v1.8.0 by Whispers88
+15:55 [Info] Unloaded plugin EasyAdmin v1.0.6 by Shady14u
+15:55 [Info] Loaded plugin EasyAdmin v1.0.6 by Shady14u
+15:55 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 258ms
+15:55 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+15:55 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 253ms
+15:55 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+15:55 [Info] [CSharp] Started Oxide.Compiler v successfully
+15:55 [Info] [BetterLoot] Removed 1 stacked LootContainer
+15:55 [Info] [BetterLoot] Populated '10502' supported containers.
+15:55 [Info] Shutting down compiler because no more jobs
+15:55 [Info] GatherManager, NoGiveNotices and FurnaceSplitter were compiled successfully in 1471ms
+15:55 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 255ms
+15:55 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+15:55 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+15:55 [Info] Unloaded plugin Furnace Splitter v2.5.2 by FastBurst
+15:55 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 256ms
+15:55 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+15:55 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+15:55 [Info] Loaded plugin Furnace Splitter v2.5.2 by FastBurst
+15:55 [Info] Compiler shutdown completed
+15:56 [Error] Rustcord v3.3.2: Failed to load config file (is the config file corrupt?) (Additional text encountered after finished reading JSON content: ,. Path '', line 10, position 3.)
+15:56 [Error] Failed to initialize plugin 'Rustcord v3.3.2' (JsonReaderException: Additional text encountered after finished reading JSON content: ,. Path '', line 10, position 3.)
+  at Newtonsoft.Json.JsonTextReader.Read () [0x000c8] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType, System.Boolean checkAdditionalContent) [0x000d9] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonSerializer.DeserializeInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00053] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonSerializer.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00000] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject (System.String value, System.Type type, Newtonsoft.Json.JsonSerializerSettings settings) [0x0002d] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject[T] (System.String value, Newtonsoft.Json.JsonSerializerSettings settings) [0x00000] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Oxide.Core.Configuration.DynamicConfigFile.ReadObject[T] (System.String filename) [0x00028] in <032ab7611607468ebf42c14e3cf9df20>:0 
+  at Oxide.Plugins.Rustcord.Loaded () [0x00007] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.Rustcord.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x032d6] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e3740cd7ab6f40909737d74eeeaf1a8a>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <032ab7611607468ebf42c14e3cf9df20>:0 
+  at Oxide.Plugins.CSharpPlugin.HandleAddedToManager (Oxide.Core.Plugins.PluginManager manager) [0x000a1] in <e3740cd7ab6f40909737d74eeeaf1a8a>:0 
+15:56 [Error] Failed to call hook 'OnDiscordClientCreated' on plugin 'Rustcord v3.3.2' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Rustcord.OnDiscordClientCreated () [0x00000] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.Rustcord.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00a1c] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e3740cd7ab6f40909737d74eeeaf1a8a>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <032ab7611607468ebf42c14e3cf9df20>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <032ab7611607468ebf42c14e3cf9df20>:0 
+15:56 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+15:56 [Info] Previous version of plugin failed to load: Rustcord
+16:01 [Error] Rustcord v3.3.2: Failed to load config file (is the config file corrupt?) (Additional text encountered after finished reading JSON content: ,. Path '', line 10, position 3.)
+16:01 [Error] Failed to initialize plugin 'Rustcord v3.3.2' (JsonReaderException: Additional text encountered after finished reading JSON content: ,. Path '', line 10, position 3.)
+  at Newtonsoft.Json.JsonTextReader.Read () [0x000c8] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType, System.Boolean checkAdditionalContent) [0x000d9] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonSerializer.DeserializeInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00053] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonSerializer.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00000] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject (System.String value, System.Type type, Newtonsoft.Json.JsonSerializerSettings settings) [0x0002d] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject[T] (System.String value, Newtonsoft.Json.JsonSerializerSettings settings) [0x00000] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Oxide.Core.Configuration.DynamicConfigFile.ReadObject[T] (System.String filename) [0x00028] in <032ab7611607468ebf42c14e3cf9df20>:0 
+  at Oxide.Plugins.Rustcord.Loaded () [0x00007] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.Rustcord.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x032d6] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e3740cd7ab6f40909737d74eeeaf1a8a>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <032ab7611607468ebf42c14e3cf9df20>:0 
+  at Oxide.Plugins.CSharpPlugin.HandleAddedToManager (Oxide.Core.Plugins.PluginManager manager) [0x000a1] in <e3740cd7ab6f40909737d74eeeaf1a8a>:0 
+16:01 [Error] Failed to call hook 'OnDiscordClientCreated' on plugin 'Rustcord v3.3.2' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Rustcord.OnDiscordClientCreated () [0x00000] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.Rustcord.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00a1c] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e3740cd7ab6f40909737d74eeeaf1a8a>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <032ab7611607468ebf42c14e3cf9df20>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <032ab7611607468ebf42c14e3cf9df20>:0 
+16:01 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+16:01 [Info] Previous version of plugin failed to load: Rustcord
+16:03 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+16:03 [Info] [Discord Extension] [Info]: Discord socket opened!
+16:03 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+16:07 [Info] [Rustcord] [DISCORD] tricksta.: test
+16:11 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+16:11 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+16:11 [Info] [Discord Extension] [Info]: Discord socket opened!
+16:11 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+16:22 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+16:22 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+16:22 [Info] [Discord Extension] [Info]: Discord socket opened!
+16:22 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+16:23 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+16:23 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+16:23 [Info] [Discord Extension] [Info]: Discord socket opened!
+16:23 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+16:31 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+16:31 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+16:31 [Info] [Discord Extension] [Info]: Discord socket opened!
+16:31 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+16:36 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+16:36 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+16:36 [Info] [Discord Extension] [Info]: Discord socket opened!
+16:36 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+16:38 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+16:38 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+16:38 [Info] [Discord Extension] [Info]: Discord socket opened!
+16:38 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+16:41 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+16:41 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+16:41 [Info] [Discord Extension] [Info]: Discord socket opened!
+16:41 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+16:45 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+16:45 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+16:45 [Info] [Discord Extension] [Info]: Discord socket opened!
+16:45 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+17:02 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+17:02 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+17:02 [Info] [Discord Extension] [Info]: Discord socket opened!
+17:02 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+17:24 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+17:24 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+17:24 [Info] [Discord Extension] [Info]: Discord socket opened!
+17:24 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+17:27 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+17:27 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+17:27 [Info] [Discord Extension] [Info]: Discord socket opened!
+17:27 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+17:29 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+17:29 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+17:29 [Info] [Discord Extension] [Info]: Discord socket opened!
+17:29 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+17:30 [Info] [Rustcord] [DISCORD] tricksta.: hello
+18:15 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+18:15 [Error] Rustcord v3.3.2: Failed to load config file (is the config file corrupt?) (After parsing a value an unexpected character was encountered: ". Path '['Discord Logging Channels'][0]['Channel Flags'][3]', line 125, position 6.)
+18:15 [Error] Failed to initialize plugin 'Rustcord v3.3.2' (JsonReaderException: Unexpected character encountered while parsing value: :. Path '['Discord Logging Channels'][0]['Channel Flags'][4]', line 125, position 37.)
+  at Newtonsoft.Json.JsonTextReader.ReadStringValue (Newtonsoft.Json.ReadType readType) [0x00366] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonTextReader.ReadAsString () [0x00000] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType (Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonContract contract, System.Boolean hasConverter) [0x00077] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList (System.Collections.IList list, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonArrayContract contract, Newtonsoft.Json.Serialization.JsonProperty containerProperty, System.String id) [0x0016f] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.Object existingValue, System.String id) [0x000dc] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0007f] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue (Newtonsoft.Json.Serialization.JsonProperty property, Newtonsoft.Json.JsonConverter propertyConverter, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerProperty, Newtonsoft.Json.JsonReader reader, System.Object target) [0x00061] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject (System.Object newObject, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonObjectContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.String id) [0x00267] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0015c] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0006d] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList (System.Collections.IList list, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonArrayContract contract, Newtonsoft.Json.Serialization.JsonProperty containerProperty, System.String id) [0x0016f] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.Object existingValue, System.String id) [0x000dc] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0007f] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue (Newtonsoft.Json.Serialization.JsonProperty property, Newtonsoft.Json.JsonConverter propertyConverter, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerProperty, Newtonsoft.Json.JsonReader reader, System.Object target) [0x00061] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject (System.Object newObject, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonObjectContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.String id) [0x00267] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0015c] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0006d] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType, System.Boolean checkAdditionalContent) [0x000d9] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonSerializer.DeserializeInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00053] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonSerializer.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00000] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject (System.String value, System.Type type, Newtonsoft.Json.JsonSerializerSettings settings) [0x0002d] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject[T] (System.String value, Newtonsoft.Json.JsonSerializerSettings settings) [0x00000] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Oxide.Core.Configuration.DynamicConfigFile.ReadObject[T] (System.String filename) [0x00028] in <032ab7611607468ebf42c14e3cf9df20>:0 
+  at Oxide.Plugins.Rustcord.Loaded () [0x00007] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.Rustcord.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x032d6] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e3740cd7ab6f40909737d74eeeaf1a8a>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <032ab7611607468ebf42c14e3cf9df20>:0 
+  at Oxide.Plugins.CSharpPlugin.HandleAddedToManager (Oxide.Core.Plugins.PluginManager manager) [0x000a1] in <e3740cd7ab6f40909737d74eeeaf1a8a>:0 
+18:15 [Error] Failed to call hook 'OnDiscordClientCreated' on plugin 'Rustcord v3.3.2' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Rustcord.OnDiscordClientCreated () [0x00000] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.Rustcord.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00a1c] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e3740cd7ab6f40909737d74eeeaf1a8a>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <032ab7611607468ebf42c14e3cf9df20>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <032ab7611607468ebf42c14e3cf9df20>:0 
+18:15 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+18:15 [Info] Previous version of plugin failed to load: Rustcord
+18:25 [Warning] [Rustcord] Attempting to create default config...
+18:25 [Error] [Rustcord] API key is empty or invalid!
+18:25 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+18:38 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+18:38 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+18:38 [Info] [Discord Extension] [Info]: Discord socket opened!
+18:38 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+18:40 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+18:40 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+18:40 [Info] [Discord Extension] [Info]: Discord socket opened!
+18:40 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+18:51 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+18:51 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+18:51 [Info] [Discord Extension] [Info]: Discord socket opened!
+18:51 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+19:28 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+19:28 [Error] Rustcord v3.3.2: Failed to load config file (is the config file corrupt?) (Additional text encountered after finished reading JSON content: {. Path '', line 159, position 4.)
+19:28 [Error] Failed to initialize plugin 'Rustcord v3.3.2' (JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 159, position 4.)
+  at Newtonsoft.Json.JsonTextReader.Read () [0x000c8] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType, System.Boolean checkAdditionalContent) [0x000d9] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonSerializer.DeserializeInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00053] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonSerializer.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00000] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject (System.String value, System.Type type, Newtonsoft.Json.JsonSerializerSettings settings) [0x0002d] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject[T] (System.String value, Newtonsoft.Json.JsonSerializerSettings settings) [0x00000] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Oxide.Core.Configuration.DynamicConfigFile.ReadObject[T] (System.String filename) [0x00028] in <032ab7611607468ebf42c14e3cf9df20>:0 
+  at Oxide.Plugins.Rustcord.Loaded () [0x00007] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.Rustcord.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x032d6] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e3740cd7ab6f40909737d74eeeaf1a8a>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <032ab7611607468ebf42c14e3cf9df20>:0 
+  at Oxide.Plugins.CSharpPlugin.HandleAddedToManager (Oxide.Core.Plugins.PluginManager manager) [0x000a1] in <e3740cd7ab6f40909737d74eeeaf1a8a>:0 
+19:28 [Error] Failed to call hook 'OnDiscordClientCreated' on plugin 'Rustcord v3.3.2' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Rustcord.OnDiscordClientCreated () [0x00000] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.Rustcord.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00a1c] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e3740cd7ab6f40909737d74eeeaf1a8a>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <032ab7611607468ebf42c14e3cf9df20>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <032ab7611607468ebf42c14e3cf9df20>:0 
+19:28 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+19:28 [Info] Previous version of plugin failed to load: Rustcord
+19:29 [Error] Rustcord v3.3.2: Failed to load config file (is the config file corrupt?) (After parsing a value an unexpected character was encountered: {. Path '['Custom: Words/Phrases to Log']', line 159, position 4.)
+19:29 [Error] Failed to initialize plugin 'Rustcord v3.3.2' (JsonReaderException: After parsing a value an unexpected character was encountered: {. Path '['Custom: Words/Phrases to Log']', line 159, position 4.)
+  at Newtonsoft.Json.JsonTextReader.ParsePostValue () [0x00179] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonTextReader.Read () [0x0005a] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject (System.Object newObject, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonObjectContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.String id) [0x0028e] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0015c] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0006d] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType, System.Boolean checkAdditionalContent) [0x000d9] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonSerializer.DeserializeInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00053] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonSerializer.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00000] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject (System.String value, System.Type type, Newtonsoft.Json.JsonSerializerSettings settings) [0x0002d] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject[T] (System.String value, Newtonsoft.Json.JsonSerializerSettings settings) [0x00000] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Oxide.Core.Configuration.DynamicConfigFile.ReadObject[T] (System.String filename) [0x00028] in <032ab7611607468ebf42c14e3cf9df20>:0 
+  at Oxide.Plugins.Rustcord.Loaded () [0x00007] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.Rustcord.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x032d6] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e3740cd7ab6f40909737d74eeeaf1a8a>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <032ab7611607468ebf42c14e3cf9df20>:0 
+  at Oxide.Plugins.CSharpPlugin.HandleAddedToManager (Oxide.Core.Plugins.PluginManager manager) [0x000a1] in <e3740cd7ab6f40909737d74eeeaf1a8a>:0 
+19:29 [Error] Failed to call hook 'OnDiscordClientCreated' on plugin 'Rustcord v3.3.2' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Rustcord.OnDiscordClientCreated () [0x00000] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.Rustcord.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00a1c] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e3740cd7ab6f40909737d74eeeaf1a8a>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <032ab7611607468ebf42c14e3cf9df20>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <032ab7611607468ebf42c14e3cf9df20>:0 
+19:29 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+19:29 [Info] Previous version of plugin failed to load: Rustcord
+19:35 [Error] Rustcord v3.3.2: Failed to load config file (is the config file corrupt?) (After parsing a value an unexpected character was encountered: {. Path '['Discord Logging Channels'][2]['Custom: Words/Phrases to Log']', line 159, position 4.)
+19:35 [Error] Failed to initialize plugin 'Rustcord v3.3.2' (JsonReaderException: After parsing a value an unexpected character was encountered: {. Path '['Discord Logging Channels'][2]['Custom: Words/Phrases to Log']', line 159, position 4.)
+  at Newtonsoft.Json.JsonTextReader.ParsePostValue () [0x00179] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonTextReader.Read () [0x0005a] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject (System.Object newObject, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonObjectContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.String id) [0x0028e] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0015c] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0006d] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList (System.Collections.IList list, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonArrayContract contract, Newtonsoft.Json.Serialization.JsonProperty containerProperty, System.String id) [0x0016f] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.Object existingValue, System.String id) [0x000dc] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0007f] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue (Newtonsoft.Json.Serialization.JsonProperty property, Newtonsoft.Json.JsonConverter propertyConverter, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerProperty, Newtonsoft.Json.JsonReader reader, System.Object target) [0x00061] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject (System.Object newObject, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonObjectContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.String id) [0x00267] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0015c] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0006d] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType, System.Boolean checkAdditionalContent) [0x000d9] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonSerializer.DeserializeInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00053] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonSerializer.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00000] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject (System.String value, System.Type type, Newtonsoft.Json.JsonSerializerSettings settings) [0x0002d] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject[T] (System.String value, Newtonsoft.Json.JsonSerializerSettings settings) [0x00000] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Oxide.Core.Configuration.DynamicConfigFile.ReadObject[T] (System.String filename) [0x00028] in <032ab7611607468ebf42c14e3cf9df20>:0 
+  at Oxide.Plugins.Rustcord.Loaded () [0x00007] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.Rustcord.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x032d6] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e3740cd7ab6f40909737d74eeeaf1a8a>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <032ab7611607468ebf42c14e3cf9df20>:0 
+  at Oxide.Plugins.CSharpPlugin.HandleAddedToManager (Oxide.Core.Plugins.PluginManager manager) [0x000a1] in <e3740cd7ab6f40909737d74eeeaf1a8a>:0 
+19:35 [Error] Failed to call hook 'OnDiscordClientCreated' on plugin 'Rustcord v3.3.2' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Rustcord.OnDiscordClientCreated () [0x00000] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.Rustcord.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00a1c] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e3740cd7ab6f40909737d74eeeaf1a8a>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <032ab7611607468ebf42c14e3cf9df20>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <032ab7611607468ebf42c14e3cf9df20>:0 
+19:35 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+19:35 [Info] Previous version of plugin failed to load: Rustcord
+19:37 [Error] Failed to initialize plugin 'Rustcord v3.3.2' (JsonSerializationException: Unexpected end when deserializing array. Path '['Discord Logging Channels'][1]', line 206, position 0.)
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ThrowUnexpectedEndException (Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonContract contract, System.Object currentObject, System.String message) [0x0002d] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList (System.Collections.IList list, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonArrayContract contract, Newtonsoft.Json.Serialization.JsonProperty containerProperty, System.String id) [0x0017e] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.Object existingValue, System.String id) [0x001be] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0007f] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue (Newtonsoft.Json.Serialization.JsonProperty property, Newtonsoft.Json.JsonConverter propertyConverter, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerProperty, Newtonsoft.Json.JsonReader reader, System.Object target) [0x00061] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject (System.Object newObject, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonObjectContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.String id) [0x00267] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0015c] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0006d] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType, System.Boolean checkAdditionalContent) [0x000d9] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonSerializer.DeserializeInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00053] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonSerializer.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00000] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject (System.String value, System.Type type, Newtonsoft.Json.JsonSerializerSettings settings) [0x0002d] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject[T] (System.String value, Newtonsoft.Json.JsonSerializerSettings settings) [0x00000] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Oxide.Core.Configuration.DynamicConfigFile.ReadObject[T] (System.String filename) [0x00028] in <032ab7611607468ebf42c14e3cf9df20>:0 
+  at Oxide.Plugins.Rustcord.Loaded () [0x00007] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.Rustcord.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x032d6] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e3740cd7ab6f40909737d74eeeaf1a8a>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <032ab7611607468ebf42c14e3cf9df20>:0 
+  at Oxide.Plugins.CSharpPlugin.HandleAddedToManager (Oxide.Core.Plugins.PluginManager manager) [0x000a1] in <e3740cd7ab6f40909737d74eeeaf1a8a>:0 
+19:37 [Error] Failed to call hook 'OnDiscordClientCreated' on plugin 'Rustcord v3.3.2' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Rustcord.OnDiscordClientCreated () [0x00000] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.Rustcord.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00a1c] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e3740cd7ab6f40909737d74eeeaf1a8a>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <032ab7611607468ebf42c14e3cf9df20>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <032ab7611607468ebf42c14e3cf9df20>:0 
+19:37 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+19:37 [Info] Previous version of plugin failed to load: Rustcord
+19:37 [Error] Failed to initialize plugin 'Rustcord v3.3.2' (JsonSerializationException: Unexpected end when deserializing array. Path '['Discord Logging Channels'][1]', line 206, position 0.)
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ThrowUnexpectedEndException (Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonContract contract, System.Object currentObject, System.String message) [0x0002d] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList (System.Collections.IList list, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonArrayContract contract, Newtonsoft.Json.Serialization.JsonProperty containerProperty, System.String id) [0x0017e] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.Object existingValue, System.String id) [0x001be] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0007f] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue (Newtonsoft.Json.Serialization.JsonProperty property, Newtonsoft.Json.JsonConverter propertyConverter, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerProperty, Newtonsoft.Json.JsonReader reader, System.Object target) [0x00061] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject (System.Object newObject, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonObjectContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.String id) [0x00267] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0015c] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0006d] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType, System.Boolean checkAdditionalContent) [0x000d9] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonSerializer.DeserializeInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00053] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonSerializer.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00000] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject (System.String value, System.Type type, Newtonsoft.Json.JsonSerializerSettings settings) [0x0002d] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject[T] (System.String value, Newtonsoft.Json.JsonSerializerSettings settings) [0x00000] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Oxide.Core.Configuration.DynamicConfigFile.ReadObject[T] (System.String filename) [0x00028] in <032ab7611607468ebf42c14e3cf9df20>:0 
+  at Oxide.Plugins.Rustcord.Loaded () [0x00007] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.Rustcord.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x032d6] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e3740cd7ab6f40909737d74eeeaf1a8a>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <032ab7611607468ebf42c14e3cf9df20>:0 
+  at Oxide.Plugins.CSharpPlugin.HandleAddedToManager (Oxide.Core.Plugins.PluginManager manager) [0x000a1] in <e3740cd7ab6f40909737d74eeeaf1a8a>:0 
+19:37 [Error] Failed to call hook 'OnDiscordClientCreated' on plugin 'Rustcord v3.3.2' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Rustcord.OnDiscordClientCreated () [0x00000] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.Rustcord.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00a1c] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e3740cd7ab6f40909737d74eeeaf1a8a>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <032ab7611607468ebf42c14e3cf9df20>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <032ab7611607468ebf42c14e3cf9df20>:0 
+19:37 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+19:37 [Info] Previous version of plugin failed to load: Rustcord
+19:47 [Error] Failed to initialize plugin 'Rustcord v3.3.2' (JsonSerializationException: Unexpected end when deserializing array. Path '['Discord Logging Channels'][1]', line 206, position 0.)
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ThrowUnexpectedEndException (Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonContract contract, System.Object currentObject, System.String message) [0x0002d] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList (System.Collections.IList list, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonArrayContract contract, Newtonsoft.Json.Serialization.JsonProperty containerProperty, System.String id) [0x0017e] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.Object existingValue, System.String id) [0x001be] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0007f] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue (Newtonsoft.Json.Serialization.JsonProperty property, Newtonsoft.Json.JsonConverter propertyConverter, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerProperty, Newtonsoft.Json.JsonReader reader, System.Object target) [0x00061] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject (System.Object newObject, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonObjectContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.String id) [0x00267] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0015c] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0006d] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType, System.Boolean checkAdditionalContent) [0x000d9] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonSerializer.DeserializeInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00053] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonSerializer.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00000] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject (System.String value, System.Type type, Newtonsoft.Json.JsonSerializerSettings settings) [0x0002d] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject[T] (System.String value, Newtonsoft.Json.JsonSerializerSettings settings) [0x00000] in <271c58b7a8684db5a2c92be17a81f252>:0 
+  at Oxide.Core.Configuration.DynamicConfigFile.ReadObject[T] (System.String filename) [0x00028] in <032ab7611607468ebf42c14e3cf9df20>:0 
+  at Oxide.Plugins.Rustcord.Loaded () [0x00007] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.Rustcord.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x032d6] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e3740cd7ab6f40909737d74eeeaf1a8a>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <032ab7611607468ebf42c14e3cf9df20>:0 
+  at Oxide.Plugins.CSharpPlugin.HandleAddedToManager (Oxide.Core.Plugins.PluginManager manager) [0x000a1] in <e3740cd7ab6f40909737d74eeeaf1a8a>:0 
+19:47 [Error] Failed to call hook 'OnDiscordClientCreated' on plugin 'Rustcord v3.3.2' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Rustcord.OnDiscordClientCreated () [0x00000] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.Rustcord.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00a1c] in <7f32ad914e2e4fd7b272b8a45c7e5afa>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <e3740cd7ab6f40909737d74eeeaf1a8a>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <032ab7611607468ebf42c14e3cf9df20>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <032ab7611607468ebf42c14e3cf9df20>:0 
+19:47 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+19:47 [Info] Previous version of plugin failed to load: Rustcord
+19:49 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+19:49 [Info] [Discord Extension] [Info]: Discord socket opened!
+19:49 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+19:50 [Info] [Rustcord] [DISCORD] tricksta.: Hello
+20:06 [Info] [Rustcord] [DISCORD] i11357: if a tree falls in a forest but nobody hears it, did it make a sound?
+20:19 [Info] [CSharp] Started Oxide.Compiler v successfully
+20:19 [Info] Shutting down compiler because no more jobs
+20:19 [Info] ScheduledMessages was compiled successfully in 1400ms
+20:19 [Info] Loaded plugin Scheduled Messages v1.2.0 by gunman435
+20:19 [Info] Compiler shutdown completed
+20:24 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 258ms
+20:24 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+20:25 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 256ms
+20:25 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+20:25 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+20:25 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+20:25 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+20:25 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+20:25 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+20:25 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+20:25 [Info] Unloaded plugin PermissionsManager v2.0.9 by Steenamaroo
+20:25 [Info] Loaded plugin PermissionsManager v2.0.9 by Steenamaroo
+20:25 [Info] Unloaded plugin Vanish v1.8.0 by Whispers88
+20:25 [Info] Loaded plugin Vanish v1.8.0 by Whispers88
+20:25 [Info] Unloaded plugin EasyAdmin v1.0.6 by Shady14u
+20:25 [Info] Loaded plugin EasyAdmin v1.0.6 by Shady14u
+20:25 [Info] [Discord Extension] [Info]: Discord socket opened!
+20:25 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 260ms
+20:25 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+20:25 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+20:25 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 256ms
+20:25 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+20:25 [Info] Unloaded plugin Scheduled Messages v1.2.0 by gunman435
+20:25 [Info] Loaded plugin Scheduled Messages v1.2.0 by gunman435
+20:25 [Info] [CSharp] Started Oxide.Compiler v successfully
+20:25 [Info] Shutting down compiler because no more jobs
+20:25 [Info] FurnaceSplitter, NoGiveNotices and BetterLoot were compiled successfully in 1471ms
+20:25 [Info] Unloaded plugin Furnace Splitter v2.5.2 by FastBurst
+20:25 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+20:25 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 258ms
+20:25 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+20:25 [Info] Loaded plugin Furnace Splitter v2.5.2 by FastBurst
+20:25 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+20:25 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+20:25 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+20:25 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+20:25 [Info] [BetterLoot] Updating internals ...
+20:25 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+20:25 [Info] Compiler shutdown completed
+20:25 [Info] [BetterLoot] Removed 11 stacked LootContainer
+20:25 [Info] [BetterLoot] Populated '10878' supported containers.
+20:31 [Info] Unloaded plugin Furnace Splitter v2.5.2 by FastBurst
+20:31 [Info] Loaded plugin Furnace Splitter v2.5.2 by FastBurst
+20:31 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+20:31 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+20:31 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+20:31 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+20:31 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+20:31 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+20:31 [Info] Unloaded plugin PermissionsManager v2.0.9 by Steenamaroo
+20:31 [Info] Loaded plugin PermissionsManager v2.0.9 by Steenamaroo
+20:31 [Info] Unloaded plugin Vanish v1.8.0 by Whispers88
+20:31 [Info] Loaded plugin Vanish v1.8.0 by Whispers88
+20:31 [Info] Unloaded plugin EasyAdmin v1.0.6 by Shady14u
+20:31 [Info] Loaded plugin EasyAdmin v1.0.6 by Shady14u
+20:31 [Info] [Discord Extension] [Info]: Discord socket opened!
+20:31 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 254ms
+20:31 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+20:31 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+20:31 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 252ms
+20:31 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+20:31 [Info] Unloaded plugin Scheduled Messages v1.2.0 by gunman435
+20:31 [Info] Loaded plugin Scheduled Messages v1.2.0 by gunman435
+20:31 [Info] [CSharp] Started Oxide.Compiler v successfully
+20:31 [Info] Shutting down compiler because no more jobs
+20:31 [Info] BetterLoot, NoGiveNotices and GatherManager were compiled successfully in 1445ms
+20:31 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 702ms [GARBAGE COLLECT]
+20:31 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+20:31 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+20:31 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 270ms
+20:31 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+20:31 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+20:31 [Info] Compiler shutdown completed
+20:31 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+20:31 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+20:31 [Info] [BetterLoot] Updating internals ...
+20:31 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+20:31 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+20:31 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 248ms
+20:31 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+20:31 [Info] [BetterLoot] No stacked LootContainer found.
+20:31 [Info] [BetterLoot] Populated '10832' supported containers.
+20:33 [Error] Could not load plugin 'Scheduled' (no plugin found with that file name)
+20:33 [Error] Could not load plugin 'Messages' (no plugin found with that file name)
+20:33 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 250ms
+20:33 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+20:33 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+20:33 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+20:33 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+20:33 [Info] [BetterLoot] Updating internals ...
+20:33 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+20:33 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+20:33 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+20:33 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+20:33 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+20:33 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+20:33 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+20:33 [Info] Unloaded plugin PermissionsManager v2.0.9 by Steenamaroo
+20:33 [Info] Loaded plugin PermissionsManager v2.0.9 by Steenamaroo
+20:33 [Info] Unloaded plugin Vanish v1.8.0 by Whispers88
+20:33 [Info] Loaded plugin Vanish v1.8.0 by Whispers88
+20:33 [Info] Unloaded plugin EasyAdmin v1.0.6 by Shady14u
+20:33 [Info] Loaded plugin EasyAdmin v1.0.6 by Shady14u
+20:33 [Info] [Discord Extension] [Info]: Discord socket opened!
+20:33 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 243ms
+20:33 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+20:33 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+20:33 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 240ms
+20:33 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+20:33 [Info] Unloaded plugin Scheduled Messages v1.2.0 by gunman435
+20:33 [Info] Loaded plugin Scheduled Messages v1.2.0 by gunman435
+20:33 [Info] [CSharp] Started Oxide.Compiler v successfully
+20:33 [Info] [BetterLoot] Removed 1 stacked LootContainer
+20:33 [Info] [BetterLoot] Populated '10484' supported containers.
+20:33 [Info] Shutting down compiler because no more jobs
+20:33 [Info] GatherManager, NoGiveNotices and FurnaceSplitter were compiled successfully in 1453ms
+20:33 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 250ms
+20:33 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+20:33 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+20:33 [Info] Unloaded plugin Furnace Splitter v2.5.2 by FastBurst
+20:33 [Info] Compiler shutdown completed
+20:33 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 256ms
+20:33 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+20:33 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+20:33 [Info] Loaded plugin Furnace Splitter v2.5.2 by FastBurst
+20:38 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 250ms
+20:38 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+20:38 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 247ms
+20:38 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+20:38 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+20:38 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+20:38 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+20:38 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+20:38 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+20:38 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+20:38 [Info] Unloaded plugin PermissionsManager v2.0.9 by Steenamaroo
+20:38 [Info] Loaded plugin PermissionsManager v2.0.9 by Steenamaroo
+20:38 [Info] Unloaded plugin Vanish v1.8.0 by Whispers88
+20:38 [Info] Loaded plugin Vanish v1.8.0 by Whispers88
+20:38 [Info] Unloaded plugin EasyAdmin v1.0.6 by Shady14u
+20:38 [Info] Loaded plugin EasyAdmin v1.0.6 by Shady14u
+20:38 [Info] [Discord Extension] [Info]: Discord socket opened!
+20:38 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 248ms
+20:38 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+20:38 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+20:38 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 247ms
+20:38 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+20:38 [Info] Unloaded plugin Scheduled Messages v1.2.0 by gunman435
+20:38 [Info] Loaded plugin Scheduled Messages v1.2.0 by gunman435
+20:38 [Info] [CSharp] Started Oxide.Compiler v successfully
+20:38 [Info] Shutting down compiler because no more jobs
+20:38 [Info] FurnaceSplitter, NoGiveNotices and BetterLoot were compiled successfully in 1488ms
+20:38 [Info] Unloaded plugin Furnace Splitter v2.5.2 by FastBurst
+20:38 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+20:38 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 248ms
+20:38 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+20:38 [Info] Loaded plugin Furnace Splitter v2.5.2 by FastBurst
+20:38 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+20:38 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+20:38 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+20:38 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+20:38 [Info] [BetterLoot] Updating internals ...
+20:38 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+20:38 [Info] Compiler shutdown completed
+20:38 [Info] [BetterLoot] Removed 1 stacked LootContainer
+20:38 [Info] [BetterLoot] Populated '10816' supported containers.
+21:24 [Warning] 'RustCore v2.0.6023' is using deprecated hook 'OnMapMarkerRemove', which will stop working on Sunday, 31 December 2023. Please ask the author to update to 'OnMapMarkerRemove(BasePlayer player, List<MapNote> mapMarker, int index)'
+22:26 [Info] [CSharp] Started Oxide.Compiler v successfully
+22:26 [Info] Shutting down compiler because no more jobs
+22:26 [Info] AdminRadar was compiled successfully in 1594ms
+22:26 [Info] Loaded plugin Admin Radar v5.3.2 by nivex
+22:26 [Info] Compiler shutdown completed
+22:26 [Info] [Admin Radar] Cached 16290/131925 entities in 1.521687 seconds!
+22:26 [Info] Unloaded plugin Admin Radar v5.3.2 by nivex
+22:26 [Info] Loaded plugin Admin Radar v5.3.2 by nivex
+22:26 [Info] [Admin Radar] Cached 16208/131678 entities in 1.219104 seconds!
+22:30 [Info] Unloaded plugin Admin Radar v5.3.2 by nivex
+22:30 [Info] Loaded plugin Admin Radar v5.3.2 by nivex
+22:30 [Info] [Admin Radar] Cached 16372/131709 entities in 1.648328 seconds!
+22:42 [Warning] 'RustCore v2.0.6023' is using deprecated hook 'OnMapMarkerRemove', which will stop working on Sunday, 31 December 2023. Please ask the author to update to 'OnMapMarkerRemove(BasePlayer player, List<MapNote> mapMarker, int index)'
+23:26 [Warning] [Discord Extension] [Warning]: Discord WebSocket closed with abnormal close code. Code: 1001, reason: 
+23:26 [Info] [Discord Extension] [Info]: Discord socket opened!
+23:26 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+23:44 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+23:44 [Info] [Discord Extension] [Info]: Discord socket opened!
+23:44 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!

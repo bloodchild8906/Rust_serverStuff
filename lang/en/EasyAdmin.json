@@ -1,0 +1,13 @@
+{
+  "NoPermission": "You do not have permission to do this action!",
+  "LogsTitle": "Logs",
+  "PlayersTitle": "Players",
+  "ClansTitle": "Clans",
+  "LeftArrow": "◀",
+  "RightArrow": "▶",
+  "TP2Player": "TP to Player",
+  "TPPlayer2ME": "TP Player to Me",
+  "VoiceBanned": "You are currently banned from using voice chat.",
+  "BanMessage": "<color=#f99900>{target} ({targetId})</color> was <color=#ff4646>{actionName}</color> by <color=#50F0E6>{bannedBy}</color>. {reason}",
+  "ReportText": "<color=#f99900>{banDate}:</color> <color=#ff4646>{banText}</color> by <color=#50F0E6>{bannedBy}</color> - {reason}"
+}

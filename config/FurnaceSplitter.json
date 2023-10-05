@@ -1,0 +1,81 @@
+{
+  "UiPosition": {
+    "x": 0.6505,
+    "y": 0.022
+  },
+  "savePlayerData": true,
+  "ovens": {
+    "*": {
+      "enabled": true,
+      "fuelMultiplier": 1.0
+    },
+    "bbq.campermodule": {
+      "enabled": false,
+      "fuelMultiplier": 1.0
+    },
+    "bbq.deployed": {
+      "enabled": false,
+      "fuelMultiplier": 1.0
+    },
+    "bbq.static": {
+      "enabled": false,
+      "fuelMultiplier": 1.0
+    },
+    "bbq.static_hidden": {
+      "enabled": false,
+      "fuelMultiplier": 1.0
+    },
+    "campfire": {
+      "enabled": false,
+      "fuelMultiplier": 1.0
+    },
+    "campfire_static": {
+      "enabled": false,
+      "fuelMultiplier": 1.0
+    },
+    "cursedcauldron.deployed": {
+      "enabled": false,
+      "fuelMultiplier": 1.0
+    },
+    "electricfurnace.deployed": {
+      "enabled": false,
+      "fuelMultiplier": 1.0
+    },
+    "fireplace.deployed": {
+      "enabled": false,
+      "fuelMultiplier": 1.0
+    },
+    "furnace": {
+      "enabled": false,
+      "fuelMultiplier": 1.0
+    },
+    "furnace.large": {
+      "enabled": false,
+      "fuelMultiplier": 1.0
+    },
+    "furnace_static": {
+      "enabled": false,
+      "fuelMultiplier": 1.0
+    },
+    "hobobarrel.deployed": {
+      "enabled": false,
+      "fuelMultiplier": 1.0
+    },
+    "hobobarrel_static": {
+      "enabled": false,
+      "fuelMultiplier": 1.0
+    },
+    "refinery_small_deployed": {
+      "enabled": false,
+      "fuelMultiplier": 1.0
+    },
+    "skull_fire_pit": {
+      "enabled": false,
+      "fuelMultiplier": 1.0
+    },
+    "small_refinery_static": {
+      "enabled": false,
+      "fuelMultiplier": 1.0
+    }
+  }
+}

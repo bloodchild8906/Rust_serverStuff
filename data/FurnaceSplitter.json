@@ -1,0 +1,114 @@
+{
+  "AllPlayerOptions": {
+    "76561199394756370": {
+      "Enabled": true,
+      "TotalStacks": {
+        "bbq.static": 3,
+        "bbq.static_hidden": 3,
+        "campfire_static": 1,
+        "furnace_static": 5,
+        "hobobarrel_static": 1,
+        "small_refinery_static": 1,
+        "bbq.campermodule": 3,
+        "bbq.deployed": 3,
+        "campfire": 1,
+        "fireplace.deployed": 1,
+        "furnace": 2,
+        "furnace.large": 5,
+        "refinery_small_deployed": 1,
+        "electricfurnace.deployed": 2,
+        "cursedcauldron.deployed": 1,
+        "skull_fire_pit": 1,
+        "hobobarrel.deployed": 1
+      }
+    },
+    "76561198087941038": {
+      "Enabled": true,
+      "TotalStacks": {
+        "bbq.static": 3,
+        "bbq.static_hidden": 3,
+        "campfire_static": 1,
+        "furnace_static": 5,
+        "hobobarrel_static": 1,
+        "small_refinery_static": 1,
+        "bbq.campermodule": 3,
+        "bbq.deployed": 3,
+        "campfire": 1,
+        "fireplace.deployed": 1,
+        "furnace": 2,
+        "furnace.large": 5,
+        "refinery_small_deployed": 1,
+        "electricfurnace.deployed": 2,
+        "cursedcauldron.deployed": 1,
+        "skull_fire_pit": 1,
+        "hobobarrel.deployed": 1
+      }
+    },
+    "76561198176491763": {
+      "Enabled": true,
+      "TotalStacks": {
+        "bbq.static": 3,
+        "bbq.static_hidden": 3,
+        "campfire_static": 1,
+        "furnace_static": 5,
+        "hobobarrel_static": 1,
+        "small_refinery_static": 1,
+        "bbq.campermodule": 3,
+        "bbq.deployed": 3,
+        "campfire": 1,
+        "fireplace.deployed": 1,
+        "furnace": 2,
+        "furnace.large": 5,
+        "refinery_small_deployed": 1,
+        "electricfurnace.deployed": 2,
+        "cursedcauldron.deployed": 1,
+        "skull_fire_pit": 1,
+        "hobobarrel.deployed": 1
+      }
+    },
+    "76561198360995027": {
+      "Enabled": true,
+      "TotalStacks": {
+        "bbq.static": 3,
+        "bbq.static_hidden": 3,
+        "campfire_static": 1,
+        "furnace_static": 5,
+        "hobobarrel_static": 1,
+        "small_refinery_static": 1,
+        "bbq.campermodule": 3,
+        "bbq.deployed": 3,
+        "campfire": 1,
+        "fireplace.deployed": 1,
+        "furnace": 2,
+        "furnace.large": 5,
+        "refinery_small_deployed": 1,
+        "electricfurnace.deployed": 2,
+        "cursedcauldron.deployed": 1,
+        "skull_fire_pit": 1,
+        "hobobarrel.deployed": 1
+      }
+    },
+    "76561198028691043": {
+      "Enabled": true,
+      "TotalStacks": {
+        "bbq.static": 3,
+        "bbq.static_hidden": 3,
+        "campfire_static": 1,
+        "furnace_static": 5,
+        "hobobarrel_static": 1,
+        "small_refinery_static": 1,
+        "bbq.campermodule": 3,
+        "bbq.deployed": 3,
+        "campfire": 1,
+        "fireplace.deployed": 1,
+        "furnace": 2,
+        "furnace.large": 5,
+        "refinery_small_deployed": 1,
+        "electricfurnace.deployed": 2,
+        "cursedcauldron.deployed": 1,
+        "skull_fire_pit": 1,
+        "hobobarrel.deployed": 1
+      }
+    }
+  }
+}

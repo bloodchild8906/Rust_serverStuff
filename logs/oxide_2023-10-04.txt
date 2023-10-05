@@ -1,0 +1,449 @@
+01:42 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+01:42 [Info] [Discord Extension] [Info]: Discord socket opened!
+01:42 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+03:20 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+03:20 [Info] [Discord Extension] [Info]: Discord socket opened!
+03:20 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+03:39 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+03:40 [Info] [Discord Extension] [Info]: Discord socket opened!
+03:40 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+04:41 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+04:41 [Info] [Discord Extension] [Info]: Discord socket opened!
+04:41 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+05:31 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+05:31 [Info] [Discord Extension] [Info]: Discord socket opened!
+05:31 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+08:15 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+08:15 [Info] [Discord Extension] [Info]: Discord socket opened!
+08:15 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+08:54 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+08:54 [Info] [Discord Extension] [Info]: Discord socket opened!
+08:54 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+10:34 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+10:34 [Info] [Discord Extension] [Info]: Discord socket opened!
+10:34 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+12:19 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+12:19 [Info] [Discord Extension] [Info]: Discord socket opened!
+12:19 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+15:26 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+15:26 [Info] [Discord Extension] [Info]: Discord socket opened!
+15:26 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+19:13 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+19:13 [Info] [Discord Extension] [Info]: Discord socket opened!
+19:13 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+19:18 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+19:18 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+19:18 [Info] [Discord Extension] [Info]: Discord socket opened!
+19:18 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 257ms
+19:18 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+19:18 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 263ms
+19:18 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+19:18 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+19:18 [Info] [CSharp] Started Oxide.Compiler v successfully
+19:19 [Info] Shutting down compiler because no more jobs
+19:19 [Info] Compiler shutdown completed
+19:19 [Info] ScheduledMessages, PermissionsManager, NoGiveNotices, GatherManager, FurnaceSplitter, EasyAdmin, BetterLoot, AdminRadar and StackSizeController were compiled successfully in 1812ms
+19:19 [Info] Unloaded plugin Scheduled Messages v1.2.0 by gunman435
+19:19 [Info] Unloaded plugin PermissionsManager v2.0.9 by Steenamaroo
+19:19 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+19:19 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 288ms
+19:19 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+19:19 [Info] Unloaded plugin Furnace Splitter v2.5.2 by FastBurst
+19:19 [Info] Unloaded plugin EasyAdmin v1.0.6 by Shady14u
+19:19 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 284ms
+19:19 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+19:19 [Info] Unloaded plugin Admin Radar v5.3.2 by nivex
+19:19 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+19:19 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+19:19 [Info] Loaded plugin Scheduled Messages v1.2.0 by gunman435
+19:19 [Info] Loaded plugin PermissionsManager v2.0.9 by Steenamaroo
+19:19 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+19:19 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 277ms
+19:19 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+19:19 [Info] Loaded plugin Furnace Splitter v2.5.2 by FastBurst
+19:19 [Info] Loaded plugin EasyAdmin v1.0.6 by Shady14u
+19:19 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+19:19 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+19:19 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+19:19 [Info] [BetterLoot] Updating internals ...
+19:19 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+19:19 [Info] Loaded plugin Admin Radar v5.3.2 by nivex
+19:19 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+19:19 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+19:19 [Info] [BetterLoot] Removed 13 stacked LootContainer
+19:19 [Info] [BetterLoot] Populated '10686' supported containers.
+19:19 [Info] [Admin Radar] Cached 16433/149276 entities in 5.027545 seconds!
+19:29 [Info] [Rustcord] [DISCORD] mrdashpotato: lol
+19:29 [Info] [Rustcord] [DISCORD] mrdashpotato: u mean Bradly?
+19:29 [Info] [Rustcord] [DISCORD] mrdashpotato: lol, me?
+19:30 [Info] [Rustcord] [DISCORD] mrdashpotato: no the ''Tank'' also known as Bradly, is an NPC Tank.
+19:30 [Info] [Rustcord] [DISCORD] mrdashpotato: you can shoot it down with 7 High Velocity Rockets, for biggggg loot
+19:30 [Info] [Rustcord] [DISCORD] mrdashpotato: and to come back, no i aint there too kill you, i am here to help and assist you, and make sure you have a nice and fair gameplay.
+19:31 [Info] [Rustcord] [DISCORD] mrdashpotato: tomorrow is Wipe, FULL wipe so be aware.
+19:31 [Info] [Rustcord] [DISCORD] mrdashpotato: spend what ever you want, Bleuprints, and everything will be resetted.
+19:31 [Info] [Rustcord] [DISCORD] mrdashpotato: new map as well.
+19:31 [Info] [Rustcord] [DISCORD] mrdashpotato: every once a month.
+19:32 [Info] [Rustcord] [DISCORD] mrdashpotato: this month it was Twice, cause of some server issues, that had to be fixed, so you players, have a better expierence within the game.
+19:32 [Info] [Rustcord] [DISCORD] mrdashpotato: now you do.
+19:33 [Info] [Rustcord] [DISCORD] mrdashpotato: so because tomorrow is wipe, we also have fun with players, or help them out and such, cause its wiping anyway.
+19:33 [Info] [Rustcord] [DISCORD] mrdashpotato: all good
+19:37 [Warning] [DEBUG] Plugin compilation is already queued: Vanish (0.000 ago)
+19:37 [Info] [CSharp] Started Oxide.Compiler v successfully
+19:37 [Info] Shutting down compiler because no more jobs
+19:37 [Info] Compiler shutdown completed
+19:37 [Info] Vanish was compiled successfully in 1406ms
+19:37 [Info] Loaded plugin Vanish v1.8.0 by Whispers88
+19:37 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+19:37 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+19:37 [Info] [Discord Extension] [Info]: Discord socket opened!
+19:37 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 257ms
+19:37 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+19:37 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+19:37 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 260ms
+19:37 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+19:37 [Info] Unloaded plugin Scheduled Messages v1.2.0 by gunman435
+19:37 [Info] Loaded plugin Scheduled Messages v1.2.0 by gunman435
+19:37 [Info] Unloaded plugin Vanish v1.8.0 by Whispers88
+19:37 [Info] Loaded plugin Vanish v1.8.0 by Whispers88
+19:37 [Info] [CSharp] Started Oxide.Compiler v successfully
+19:37 [Info] Shutting down compiler because no more jobs
+19:37 [Info] Compiler shutdown completed
+19:37 [Info] StackSizeController, AdminRadar, BetterLoot, EasyAdmin, FurnaceSplitter, GatherManager, NoGiveNotices and PermissionsManager were compiled successfully in 1766ms
+19:37 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+19:37 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+19:37 [Info] Unloaded plugin Admin Radar v5.3.2 by nivex
+19:37 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 265ms
+19:37 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+19:37 [Info] Unloaded plugin EasyAdmin v1.0.6 by Shady14u
+19:37 [Info] Unloaded plugin Furnace Splitter v2.5.2 by FastBurst
+19:37 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 272ms
+19:37 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+19:37 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+19:37 [Info] Unloaded plugin PermissionsManager v2.0.9 by Steenamaroo
+19:37 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+19:37 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+19:37 [Info] Loaded plugin Admin Radar v5.3.2 by nivex
+19:37 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+19:37 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+19:37 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+19:37 [Info] [BetterLoot] Updating internals ...
+19:37 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+19:37 [Info] Loaded plugin EasyAdmin v1.0.6 by Shady14u
+19:37 [Info] Loaded plugin Furnace Splitter v2.5.2 by FastBurst
+19:37 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 266ms
+19:37 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+19:37 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+19:37 [Info] Loaded plugin PermissionsManager v2.0.9 by Steenamaroo
+19:37 [Info] [BetterLoot] Removed 12 stacked LootContainer
+19:37 [Info] [BetterLoot] Populated '10636' supported containers.
+19:37 [Info] [Admin Radar] Cached 16388/149322 entities in 5.513173 seconds!
+20:00 [Warning] 'RustCore v2.0.6023' is using deprecated hook 'OnMapMarkerRemove', which will stop working on Sunday, 31 December 2023. Please ask the author to update to 'OnMapMarkerRemove(BasePlayer player, List<MapNote> mapMarker, int index)'
+20:10 [Info] Unloaded plugin PermissionsManager v2.0.9 by Steenamaroo
+20:10 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+20:10 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+20:10 [Error] ExType: WebException
+20:10 [Error] [Discord Extension] [Exception]: A web request exception occured (internal error) [RETRY=1/3].
+Request URL: [POST] https://discord.com/api/v9/channels/1154981435556515952/messages
+System.Net.WebException: Thread was being aborted. ---> System.Threading.ThreadAbortException: Thread was being aborted.
+  at (wrapper managed-to-native) System.Threading.Monitor.Monitor_wait(object,int)
+  at System.Threading.Monitor.ObjWait (System.Boolean exitContext, System.Int32 millisecondsTimeout, System.Object obj) [0x0002f] in <2161c9885dd04ff291b79db9349c4b9b>:0 
+  at System.Threading.Monitor.Wait (System.Object obj, System.Int32 millisecondsTimeout, System.Boolean exitContext) [0x0000e] in <2161c9885dd04ff291b79db9349c4b9b>:0 
+  at System.Threading.Monitor.Wait (System.Object obj, System.Int32 millisecondsTimeout) [0x00000] in <2161c9885dd04ff291b79db9349c4b9b>:0 
+  at System.Threading.ManualResetEventSlim.Wait (System.Int32 millisecondsTimeout, System.Threading.CancellationToken cancellationToken) [0x00100] in <2161c9885dd04ff291b79db9349c4b9b>:0 
+  at System.Threading.Tasks.Task.SpinThenBlockingWait (System.Int32 millisecondsTimeout, System.Threading.CancellationToken cancellationToken) [0x0002d] in <2161c9885dd04ff291b79db9349c4b9b>:0 
+  at System.Threading.Tasks.Task.InternalWait (System.Int32 millisecondsTimeout, System.Threading.CancellationToken cancellationToken) [0x00069] in <2161c9885dd04ff291b79db9349c4b9b>:0 
+  at System.Threading.Tasks.Task`1[TResult].GetResultCore (System.Boolean waitCompletionNotification) [0x00008] in <2161c9885dd04ff291b79db9349c4b9b>:0 
+  at System.Threading.Tasks.Task`1[TResult].get_Result () [0x0000f] in <2161c9885dd04ff291b79db9349c4b9b>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00006] in <a6e4b4aa6fb04ea29ee289948685adca>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <a6e4b4aa6fb04ea29ee289948685adca>:0 
+  at Oxide.Ext.Discord.Rest.Request.WriteRequestData (System.Net.WebRequest request) [0x0002d] in <04348bf9a35746d283d4a8b439245576>:0 
+  at Oxide.Ext.Discord.Rest.Request.Fire () [0x00022] in <04348bf9a35746d283d4a8b439245576>:0  (ThreadAbortException: Thread was being aborted.)
+  at (wrapper managed-to-native) System.Threading.Monitor.Monitor_wait(object,int)
+  at System.Threading.Monitor.ObjWait (System.Boolean exitContext, System.Int32 millisecondsTimeout, System.Object obj) [0x0002f] in <2161c9885dd04ff291b79db9349c4b9b>:0 
+  at System.Threading.Monitor.Wait (System.Object obj, System.Int32 millisecondsTimeout, System.Boolean exitContext) [0x0000e] in <2161c9885dd04ff291b79db9349c4b9b>:0 
+  at System.Threading.Monitor.Wait (System.Object obj, System.Int32 millisecondsTimeout) [0x00000] in <2161c9885dd04ff291b79db9349c4b9b>:0 
+  at System.Threading.ManualResetEventSlim.Wait (System.Int32 millisecondsTimeout, System.Threading.CancellationToken cancellationToken) [0x00100] in <2161c9885dd04ff291b79db9349c4b9b>:0 
+  at System.Threading.Tasks.Task.SpinThenBlockingWait (System.Int32 millisecondsTimeout, System.Threading.CancellationToken cancellationToken) [0x0002d] in <2161c9885dd04ff291b79db9349c4b9b>:0 
+  at System.Threading.Tasks.Task.InternalWait (System.Int32 millisecondsTimeout, System.Threading.CancellationToken cancellationToken) [0x00069] in <2161c9885dd04ff291b79db9349c4b9b>:0 
+  at System.Threading.Tasks.Task`1[TResult].GetResultCore (System.Boolean waitCompletionNotification) [0x00008] in <2161c9885dd04ff291b79db9349c4b9b>:0 
+  at System.Threading.Tasks.Task`1[TResult].get_Result () [0x0000f] in <2161c9885dd04ff291b79db9349c4b9b>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00006] in <a6e4b4aa6fb04ea29ee289948685adca>:0 
+20:10 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 257ms
+20:10 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+20:10 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 266ms
+20:10 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+20:10 [Info] Unloaded plugin Furnace Splitter v2.5.2 by FastBurst
+20:10 [Info] Unloaded plugin EasyAdmin v1.0.6 by Shady14u
+20:10 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 261ms
+20:10 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+20:10 [Info] Unloaded plugin Admin Radar v5.3.2 by nivex
+20:10 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+20:10 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+20:10 [Info] Unloaded plugin Scheduled Messages v1.2.0 by gunman435
+20:10 [Info] Unloaded plugin Vanish v1.8.0 by Whispers88
+20:10 [Info] Loading Oxide Core v2.0.4070...
+20:10 [Info] Loading extensions...
+20:10 [Info] Loaded extension CSharp v2.0.4112 by Oxide Team and Contributors
+20:10 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+20:10 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+20:10 [Info] Unity version: 2021.3.29f1
+20:10 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+20:10 [Info] Loaded extension Rust v2.0.6023 by Oxide Team and Contributors
+20:10 [Info] Loaded extension Discord v2.1.9 by PsychoTea & DylanSMR & Tricky & Kirollos & MJSU
+20:10 [Info] [CSharp] Checking for updates for Oxide.Compiler | Local MD5: 3a0143f758249e0795072ff168a1197f | Last modified: 2023-09-29 19:07:47
+20:10 [Info] [CSharp] Oxide.Compiler is up to date
+20:10 [Info] File permissions set for Oxide.Compiler
+20:10 [Info] Using Covalence provider for game 'Rust'
+20:10 [Info] Loading plugins...
+20:10 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+20:10 [Info] Loaded plugin Rust v2.0.6023 by Oxide Team and Contributors
+20:10 [Info] [CSharp] Started Oxide.Compiler v successfully
+20:10 [Info] Shutting down compiler because no more jobs
+20:10 [Info] Vanish, StackSizeController, ScheduledMessages, Rustcord, QuickSmelt, PermissionsManager, NoGiveNotices, GatherManager, FurnaceSplitter, EasyAdmin, BetterLoot and AdminRadar were compiled successfully in 0ms
+20:10 [Info] Loaded plugin Vanish v1.8.0 by Whispers88
+20:10 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+20:10 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+20:10 [Info] Loaded plugin Scheduled Messages v1.2.0 by gunman435
+20:10 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+20:10 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+20:10 [Info] Loaded plugin PermissionsManager v2.0.9 by Steenamaroo
+20:10 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+20:10 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+20:10 [Info] Loaded plugin Furnace Splitter v2.5.2 by FastBurst
+20:10 [Info] Loaded plugin EasyAdmin v1.0.6 by Shady14u
+20:10 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+20:10 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+20:10 [Info] Loaded plugin Admin Radar v5.3.2 by nivex
+20:10 [Info] [Discord Extension] [Info]: Discord socket opened!
+20:10 [Info] Compiler shutdown completed
+20:10 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+20:14 [Info] IP address from command-line: 213.171.194.247
+20:14 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 238ms
+20:14 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 236ms
+20:14 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+20:14 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+20:14 [Info] [BetterLoot] Updating internals ...
+20:14 [Info] [BetterLoot] No stacked LootContainer found.
+20:14 [Info] [BetterLoot] Populated '824' supported containers.
+20:15 [Info] [Admin Radar] Cached 4172/135060 entities in 3.183246 seconds!
+20:21 [Warning] 'RustCore v2.0.6023' is using deprecated hook 'OnMapMarkerRemove', which will stop working on Sunday, 31 December 2023. Please ask the author to update to 'OnMapMarkerRemove(BasePlayer player, List<MapNote> mapMarker, int index)'
+21:19 [Info] [CSharp] Started Oxide.Compiler v successfully
+21:19 [Info] Shutting down compiler because no more jobs
+21:19 [Info] MonumentsRecycler was compiled successfully in 1435ms
+21:19 [Info] Loaded plugin Monuments Recycler v0.2.6 by Dana
+21:19 [Info] Compiler shutdown completed
+21:19 [Info] Unloaded plugin Admin Radar v5.3.2 by nivex
+21:19 [Info] Loaded plugin Admin Radar v5.3.2 by nivex
+21:19 [Info] Unloaded plugin Monuments Recycler v0.2.6 by Dana
+21:19 [Info] Loaded plugin Monuments Recycler v0.2.6 by Dana
+21:19 [Info] [CSharp] Started Oxide.Compiler v successfully
+21:19 [Info] [Admin Radar] Cached 15971/157680 entities in 1.693436 seconds!
+21:19 [Info] Shutting down compiler because no more jobs
+21:19 [Info] Vanish, StackSizeController, ScheduledMessages, Rustcord, QuickSmelt, PermissionsManager, NoGiveNotices, GatherManager, FurnaceSplitter, EasyAdmin and BetterLoot were compiled successfully in 1884ms
+21:19 [Info] Unloaded plugin Vanish v1.8.0 by Whispers88
+21:19 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+21:19 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+21:19 [Info] Unloaded plugin Scheduled Messages v1.2.0 by gunman435
+21:19 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+21:19 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 268ms
+21:19 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+21:19 [Info] Unloaded plugin PermissionsManager v2.0.9 by Steenamaroo
+21:19 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+21:19 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 277ms
+21:19 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+21:19 [Info] Unloaded plugin Furnace Splitter v2.5.2 by FastBurst
+21:19 [Info] Unloaded plugin EasyAdmin v1.0.6 by Shady14u
+21:19 [Info] Compiler shutdown completed
+21:19 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 271ms
+21:19 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+21:19 [Info] Loaded plugin Vanish v1.8.0 by Whispers88
+21:19 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+21:19 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+21:19 [Info] Loaded plugin Scheduled Messages v1.2.0 by gunman435
+21:19 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+21:19 [Info] [Discord Extension] [Info]: Discord socket opened!
+21:19 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 275ms
+21:19 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+21:19 [Info] Loaded plugin PermissionsManager v2.0.9 by Steenamaroo
+21:19 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+21:19 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+21:19 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 278ms
+21:19 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+21:19 [Info] Loaded plugin Furnace Splitter v2.5.2 by FastBurst
+21:19 [Info] Loaded plugin EasyAdmin v1.0.6 by Shady14u
+21:19 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+21:19 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+21:19 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+21:19 [Info] [BetterLoot] Updating internals ...
+21:19 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+21:19 [Info] [BetterLoot] Removed 10 stacked LootContainer
+21:19 [Info] [BetterLoot] Populated '9872' supported containers.
+21:21 [Info] Unloaded plugin Vanish v1.8.0 by Whispers88
+21:21 [Info] Loaded plugin Vanish v1.8.0 by Whispers88
+21:21 [Info] Unloaded plugin Monuments Recycler v0.2.6 by Dana
+21:21 [Info] Loaded plugin Monuments Recycler v0.2.6 by Dana
+21:21 [Info] [CSharp] Started Oxide.Compiler v successfully
+21:21 [Info] Shutting down compiler because no more jobs
+21:21 [Info] BetterLoot, EasyAdmin, FurnaceSplitter, GatherManager, NoGiveNotices, PermissionsManager, QuickSmelt, Rustcord, ScheduledMessages, StackSizeController and AdminRadar were compiled successfully in 1962ms
+21:21 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 286ms
+21:21 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+21:21 [Info] Unloaded plugin EasyAdmin v1.0.6 by Shady14u
+21:21 [Info] Unloaded plugin Furnace Splitter v2.5.2 by FastBurst
+21:21 [Info] Compiler shutdown completed
+21:21 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 310ms
+21:21 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+21:21 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+21:21 [Info] Unloaded plugin PermissionsManager v2.0.9 by Steenamaroo
+21:21 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 287ms
+21:21 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+21:21 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+21:21 [Info] Unloaded plugin Scheduled Messages v1.2.0 by gunman435
+21:21 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+21:21 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+21:21 [Info] Unloaded plugin Admin Radar v5.3.2 by nivex
+21:21 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+21:21 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+21:21 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+21:21 [Info] [BetterLoot] Updating internals ...
+21:21 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+21:21 [Info] Loaded plugin EasyAdmin v1.0.6 by Shady14u
+21:21 [Info] Loaded plugin Furnace Splitter v2.5.2 by FastBurst
+21:21 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 272ms
+21:21 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+21:21 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+21:21 [Info] Loaded plugin PermissionsManager v2.0.9 by Steenamaroo
+21:21 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 273ms
+21:21 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+21:21 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+21:21 [Info] Loaded plugin Scheduled Messages v1.2.0 by gunman435
+21:21 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+21:21 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+21:21 [Info] Loaded plugin Admin Radar v5.3.2 by nivex
+21:21 [Info] [Discord Extension] [Info]: Discord socket opened!
+21:21 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+21:21 [Info] [BetterLoot] Removed 3 stacked LootContainer
+21:21 [Info] [BetterLoot] Populated '10180' supported containers.
+21:21 [Info] [Admin Radar] Cached 16154/158443 entities in 3.159816 seconds!
+21:47 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 260ms
+21:47 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+21:47 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+21:47 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+21:47 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+21:47 [Info] [BetterLoot] Updating internals ...
+21:47 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+21:47 [Info] Unloaded plugin Monuments Recycler v0.2.6 by Dana
+21:47 [Info] Loaded plugin Monuments Recycler v0.2.6 by Dana
+21:47 [Info] [CSharp] Started Oxide.Compiler v successfully
+21:47 [Info] [BetterLoot] Removed 12 stacked LootContainer
+21:47 [Info] [BetterLoot] Populated '9908' supported containers.
+21:47 [Info] Shutting down compiler because no more jobs
+21:47 [Info] AdminRadar, StackSizeController, ScheduledMessages, Rustcord, QuickSmelt, PermissionsManager, NoGiveNotices, GatherManager, FurnaceSplitter, EasyAdmin and Vanish were compiled successfully in 2050ms
+21:47 [Info] Unloaded plugin Admin Radar v5.3.2 by nivex
+21:47 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+21:47 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+21:47 [Info] Unloaded plugin Scheduled Messages v1.2.0 by gunman435
+21:47 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+21:47 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 274ms
+21:47 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+21:47 [Info] Unloaded plugin PermissionsManager v2.0.9 by Steenamaroo
+21:47 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+21:47 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 259ms
+21:47 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+21:47 [Info] Unloaded plugin Furnace Splitter v2.5.2 by FastBurst
+21:47 [Info] Unloaded plugin EasyAdmin v1.0.6 by Shady14u
+21:47 [Info] Unloaded plugin Vanish v1.8.0 by Whispers88
+21:47 [Info] Compiler shutdown completed
+21:47 [Info] Loaded plugin Admin Radar v5.3.2 by nivex
+21:47 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+21:47 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+21:47 [Info] Loaded plugin Scheduled Messages v1.2.0 by gunman435
+21:47 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+21:47 [Info] [Discord Extension] [Info]: Discord socket opened!
+21:47 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 267ms
+21:47 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+21:47 [Info] Loaded plugin PermissionsManager v2.0.9 by Steenamaroo
+21:47 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+21:47 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+21:47 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 266ms
+21:47 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+21:47 [Info] Loaded plugin Furnace Splitter v2.5.2 by FastBurst
+21:47 [Info] Loaded plugin EasyAdmin v1.0.6 by Shady14u
+21:47 [Info] Loaded plugin Vanish v1.8.0 by Whispers88
+21:47 [Info] [Admin Radar] Cached 16061/158025 entities in 2.274423 seconds!
+22:05 [Info] [CSharp] Started Oxide.Compiler v successfully
+22:05 [Info] Shutting down compiler because no more jobs
+22:05 [Info] BetterLoot was compiled successfully in 1485ms
+22:05 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 279ms
+22:05 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+22:05 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+22:05 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+22:05 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+22:05 [Info] [BetterLoot] Updating internals ...
+22:05 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+22:05 [Info] Compiler shutdown completed
+22:05 [Info] [BetterLoot] No stacked LootContainer found.
+22:05 [Info] [BetterLoot] Populated '10702' supported containers.
+22:06 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 292ms
+22:06 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+22:06 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+22:06 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+22:06 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+22:06 [Info] [BetterLoot] Updating internals ...
+22:06 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+22:06 [Info] [BetterLoot] No stacked LootContainer found.
+22:06 [Info] [BetterLoot] Populated '10568' supported containers.
+22:06 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 281ms
+22:06 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+22:06 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+22:06 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+22:06 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+22:06 [Info] [BetterLoot] Updating internals ...
+22:06 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+22:06 [Info] [BetterLoot] No stacked LootContainer found.
+22:06 [Info] [BetterLoot] Populated '10702' supported containers.
+22:08 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 260ms
+22:08 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+22:08 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+22:08 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+22:08 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+22:08 [Info] [BetterLoot] Updating internals ...
+22:08 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+22:08 [Info] [BetterLoot] No stacked LootContainer found.
+22:08 [Info] [BetterLoot] Populated '10672' supported containers.
+22:16 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 264ms
+22:16 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+22:16 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+22:16 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+22:16 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+22:16 [Info] [BetterLoot] Updating internals ...
+22:16 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+22:16 [Info] [BetterLoot] Removed 8 stacked LootContainer
+22:16 [Info] [BetterLoot] Populated '10896' supported containers.
+22:29 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 273ms
+22:29 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+22:29 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+22:29 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+22:29 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+22:29 [Info] [BetterLoot] Updating internals ...
+22:29 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+22:29 [Info] [BetterLoot] Removed 5 stacked LootContainer
+22:29 [Info] [BetterLoot] Populated '10544' supported containers.
+22:52 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 276ms
+22:52 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+22:52 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+22:52 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+22:52 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+22:52 [Info] [BetterLoot] Updating internals ...
+22:52 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+22:52 [Info] [BetterLoot] Removed 10 stacked LootContainer
+22:52 [Info] [BetterLoot] Populated '10696' supported containers.
+22:52 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 278ms
+22:52 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+22:52 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+22:52 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+22:52 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+22:52 [Info] [BetterLoot] Updating internals ...
+22:52 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+22:52 [Info] [BetterLoot] No stacked LootContainer found.
+22:52 [Info] [BetterLoot] Populated '10502' supported containers.

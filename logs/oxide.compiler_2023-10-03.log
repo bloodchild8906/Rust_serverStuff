@@ -1,0 +1,101 @@
+2023-10-03 10:38:05.174 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-03 10:38:05.190 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-03 10:38:05.195 +01:00 [INF] Watching parent process ([160861] RustDedicated) for shutdown
+2023-10-03 10:38:05.195 +01:00 [DBG] Started message server. . .
+2023-10-03 10:38:05.195 +01:00 [INF] Message server has started
+2023-10-03 10:38:07.194 +01:00 [INF] Sent ready message to parent process
+2023-10-03 10:38:07.195 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-03 10:38:07.274 +01:00 [DBG] Received compile job 2 | Plugins: 1, References: 54
+2023-10-03 10:38:08.201 +01:00 [INF] Starting compilation of job 2 | Total Plugins: 1
+2023-10-03 10:38:08.202 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-03 10:38:08.216 +01:00 [DBG] Added 54 project references
+2023-10-03 10:38:08.267 +01:00 [DBG] Added 1 plugins to the project
+2023-10-03 10:38:08.601 +01:00 [WRN] Failed to compile QuickSmelt.cs - Identifier expected (L: 46 | P: 18) | Removing from project
+2023-10-03 10:38:08.602 +01:00 [ERR] Failed to compile job 2 in 400ms
+2023-10-03 10:38:08.602 +01:00 [DBG] Pushing job 2 back to parent
+2023-10-03 10:38:08.604 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-03 10:38:09.602 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-03 10:38:15.564 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-03 10:38:15.578 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-03 10:38:15.583 +01:00 [INF] Watching parent process ([160861] RustDedicated) for shutdown
+2023-10-03 10:38:15.584 +01:00 [DBG] Started message server. . .
+2023-10-03 10:38:15.584 +01:00 [INF] Message server has started
+2023-10-03 10:38:17.585 +01:00 [INF] Sent ready message to parent process
+2023-10-03 10:38:17.585 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-03 10:38:17.655 +01:00 [DBG] Received compile job 3 | Plugins: 10, References: 54
+2023-10-03 10:38:18.589 +01:00 [INF] Starting compilation of job 3 | Total Plugins: 10
+2023-10-03 10:38:18.590 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-03 10:38:18.604 +01:00 [DBG] Added 54 project references
+2023-10-03 10:38:18.686 +01:00 [DBG] Added 10 plugins to the project
+2023-10-03 10:38:19.184 +01:00 [WRN] Failed to compile QuickSmelt.cs - Identifier expected (L: 46 | P: 18) | Removing from project
+2023-10-03 10:38:19.522 +01:00 [INF] Successfully compiled 9/10 plugins for job 3 in 932ms
+2023-10-03 10:38:19.522 +01:00 [DBG] Pushing job 3 back to parent
+2023-10-03 10:38:19.524 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-03 10:38:20.523 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-03 10:38:56.916 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-03 10:38:56.931 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-03 10:38:56.936 +01:00 [INF] Watching parent process ([160861] RustDedicated) for shutdown
+2023-10-03 10:38:56.937 +01:00 [DBG] Started message server. . .
+2023-10-03 10:38:56.937 +01:00 [INF] Message server has started
+2023-10-03 10:38:58.941 +01:00 [INF] Sent ready message to parent process
+2023-10-03 10:38:58.941 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-03 10:38:59.003 +01:00 [DBG] Received compile job 4 | Plugins: 1, References: 54
+2023-10-03 10:38:59.945 +01:00 [INF] Starting compilation of job 4 | Total Plugins: 1
+2023-10-03 10:38:59.946 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-03 10:38:59.959 +01:00 [DBG] Added 54 project references
+2023-10-03 10:38:59.989 +01:00 [DBG] Added 1 plugins to the project
+2023-10-03 10:39:00.279 +01:00 [WRN] Failed to compile QuickSmelt.cs - } expected (L: 81 | P: 14) | Removing from project
+2023-10-03 10:39:00.280 +01:00 [ERR] Failed to compile job 4 in 334ms
+2023-10-03 10:39:00.280 +01:00 [DBG] Pushing job 4 back to parent
+2023-10-03 10:39:00.281 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-03 10:39:01.278 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-03 10:39:07.693 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-03 10:39:07.709 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-03 10:39:07.718 +01:00 [INF] Watching parent process ([160861] RustDedicated) for shutdown
+2023-10-03 10:39:07.718 +01:00 [DBG] Started message server. . .
+2023-10-03 10:39:07.718 +01:00 [INF] Message server has started
+2023-10-03 10:39:09.718 +01:00 [INF] Sent ready message to parent process
+2023-10-03 10:39:09.718 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-03 10:39:09.780 +01:00 [DBG] Received compile job 5 | Plugins: 9, References: 54
+2023-10-03 10:39:10.723 +01:00 [INF] Starting compilation of job 5 | Total Plugins: 9
+2023-10-03 10:39:10.723 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-03 10:39:10.737 +01:00 [DBG] Added 54 project references
+2023-10-03 10:39:10.825 +01:00 [DBG] Added 9 plugins to the project
+2023-10-03 10:39:11.330 +01:00 [WRN] Failed to compile QuickSmelt.cs - } expected (L: 81 | P: 14) | Removing from project
+2023-10-03 10:39:11.658 +01:00 [INF] Successfully compiled 8/9 plugins for job 5 in 935ms
+2023-10-03 10:39:11.658 +01:00 [DBG] Pushing job 5 back to parent
+2023-10-03 10:39:11.660 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-03 10:39:12.659 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-03 10:40:00.930 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-03 10:40:00.945 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-03 10:40:00.951 +01:00 [INF] Watching parent process ([160861] RustDedicated) for shutdown
+2023-10-03 10:40:00.951 +01:00 [DBG] Started message server. . .
+2023-10-03 10:40:00.951 +01:00 [INF] Message server has started
+2023-10-03 10:40:02.951 +01:00 [INF] Sent ready message to parent process
+2023-10-03 10:40:02.951 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-03 10:40:03.016 +01:00 [DBG] Received compile job 6 | Plugins: 1, References: 54
+2023-10-03 10:40:03.952 +01:00 [INF] Starting compilation of job 6 | Total Plugins: 1
+2023-10-03 10:40:03.952 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-03 10:40:03.965 +01:00 [DBG] Added 54 project references
+2023-10-03 10:40:04.001 +01:00 [DBG] Added 1 plugins to the project
+2023-10-03 10:40:04.331 +01:00 [WRN] Failed to compile QuickSmelt.cs - The best overloaded Add method 'Dictionary<string, int>.Add(string, int)' for the collection initializer has some invalid arguments (L: 55 | P: 17) | Removing from project
+2023-10-03 10:40:04.332 +01:00 [ERR] Failed to compile job 6 in 380ms
+2023-10-03 10:40:04.332 +01:00 [DBG] Pushing job 6 back to parent
+2023-10-03 10:40:04.334 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-03 10:40:05.330 +01:00 [INF] Termination request has been received from SIGTERM
+2023-10-03 10:40:36.198 +01:00 [INF] Starting compiler v1.0.22.0. . .
+2023-10-03 10:40:36.213 +01:00 [INF] Minimal logging level is set to Debug
+2023-10-03 10:40:36.218 +01:00 [INF] Watching parent process ([160861] RustDedicated) for shutdown
+2023-10-03 10:40:36.219 +01:00 [DBG] Started message server. . .
+2023-10-03 10:40:36.219 +01:00 [INF] Message server has started
+2023-10-03 10:40:38.221 +01:00 [INF] Sent ready message to parent process
+2023-10-03 10:40:38.221 +01:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2023-10-03 10:40:38.287 +01:00 [DBG] Received compile job 7 | Plugins: 1, References: 54
+2023-10-03 10:40:39.225 +01:00 [INF] Starting compilation of job 7 | Total Plugins: 1
+2023-10-03 10:40:39.226 +01:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False]
+2023-10-03 10:40:39.239 +01:00 [DBG] Added 54 project references
+2023-10-03 10:40:39.270 +01:00 [DBG] Added 1 plugins to the project
+2023-10-03 10:40:39.601 +01:00 [INF] Successfully compiled 1/1 plugins for job 7 in 376ms
+2023-10-03 10:40:39.601 +01:00 [DBG] Pushing job 7 back to parent
+2023-10-03 10:40:39.603 +01:00 [INF] Termination request has been received from compiler stream
+2023-10-03 10:40:40.604 +01:00 [INF] Termination request has been received from SIGTERM

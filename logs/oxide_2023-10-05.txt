@@ -1,0 +1,57 @@
+00:53 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+00:53 [Info] [Discord Extension] [Info]: Discord socket opened!
+00:53 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+01:23 [Info] [CSharp] Started Oxide.Compiler v successfully
+01:23 [Info] Shutting down compiler because no more jobs
+01:23 [Info] QuickSmelt was compiled successfully in 1393ms
+01:23 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 272ms
+01:23 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+01:23 [Info] Compiler shutdown completed
+01:23 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 283ms
+01:23 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+01:27 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 267ms
+01:27 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+01:27 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 266ms
+01:27 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+01:27 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 267ms
+01:27 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+01:27 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+01:27 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+01:27 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+01:27 [Info] [BetterLoot] Updating internals ...
+01:27 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+01:27 [Info] Unloaded plugin Monuments Recycler v0.2.6 by Dana
+01:27 [Info] Loaded plugin Monuments Recycler v0.2.6 by Dana
+01:27 [Info] [CSharp] Started Oxide.Compiler v successfully
+01:27 [Info] [BetterLoot] Removed 16 stacked LootContainer
+01:27 [Info] [BetterLoot] Populated '9924' supported containers.
+01:27 [Info] Shutting down compiler because no more jobs
+01:27 [Info] Vanish, EasyAdmin, FurnaceSplitter, GatherManager, NoGiveNotices, PermissionsManager, Rustcord, ScheduledMessages, StackSizeController and AdminRadar were compiled successfully in 1967ms
+01:27 [Info] Unloaded plugin Vanish v1.8.0 by Whispers88
+01:27 [Info] Unloaded plugin EasyAdmin v1.0.6 by Shady14u
+01:27 [Info] Unloaded plugin Furnace Splitter v2.5.2 by FastBurst
+01:27 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 273ms
+01:27 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+01:27 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+01:27 [Info] Unloaded plugin PermissionsManager v2.0.9 by Steenamaroo
+01:27 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+01:27 [Info] Unloaded plugin Scheduled Messages v1.2.0 by gunman435
+01:27 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+01:27 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+01:27 [Info] Unloaded plugin Admin Radar v5.3.2 by nivex
+01:27 [Info] Loaded plugin Vanish v1.8.0 by Whispers88
+01:27 [Info] Loaded plugin EasyAdmin v1.0.6 by Shady14u
+01:27 [Info] Loaded plugin Furnace Splitter v2.5.2 by FastBurst
+01:27 [Info] Compiler shutdown completed
+01:27 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 286ms
+01:27 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+01:27 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+01:27 [Info] Loaded plugin PermissionsManager v2.0.9 by Steenamaroo
+01:27 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+01:27 [Info] Loaded plugin Scheduled Messages v1.2.0 by gunman435
+01:27 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+01:27 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+01:27 [Info] Loaded plugin Admin Radar v5.3.2 by nivex
+01:27 [Info] [Discord Extension] [Info]: Discord socket opened!
+01:27 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+01:27 [Info] [Admin Radar] Cached 16016/157839 entities in 1.75487 seconds!

@@ -1,0 +1,150 @@
+00:32 [Warning] [Discord Extension] [Warning]: Discord WebSocket closed with abnormal close code. Code: 1006, reason: An exception has occurred while receiving.
+00:32 [Info] [Discord Extension] [Info]: Discord socket opened!
+00:32 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+00:55 [Warning] [Discord Extension] [Warning]: Discord WebSocket closed with abnormal close code. Code: 1006, reason: An exception has occurred while receiving.
+00:55 [Info] [Discord Extension] [Info]: Discord socket opened!
+00:55 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+03:10 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+03:10 [Info] [Discord Extension] [Info]: Discord socket opened!
+03:10 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+05:39 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+05:39 [Info] [Discord Extension] [Info]: Discord socket opened!
+05:39 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+06:24 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+06:24 [Info] [Discord Extension] [Info]: Discord socket opened!
+06:24 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+08:42 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+08:42 [Info] [Discord Extension] [Info]: Discord socket opened!
+08:42 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+09:11 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+09:11 [Info] [Discord Extension] [Info]: Discord socket opened!
+09:11 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+10:38 [Info] [CSharp] Started Oxide.Compiler v successfully
+10:38 [Info] Shutting down compiler because no more jobs
+10:38 [Error] Error while compiling QuickSmelt: Identifier expected | Line: 46, Pos: 18
+10:38 [Info] Compiler shutdown completed
+10:38 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+10:38 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+10:38 [Info] [CSharp] Started Oxide.Compiler v successfully
+10:38 [Info] [Discord Extension] [Info]: Discord socket opened!
+10:38 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+10:38 [Info] Shutting down compiler because no more jobs
+10:38 [Info] StackSizeController, ScheduledMessages, PermissionsManager, NoGiveNotices, GatherManager, FurnaceSplitter, EasyAdmin, BetterLoot and AdminRadar were compiled successfully in 1934ms
+10:38 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+10:38 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+10:38 [Info] Unloaded plugin Scheduled Messages v1.2.0 by gunman435
+10:38 [Error] Error while compiling QuickSmelt: Identifier expected | Line: 46, Pos: 18
+10:38 [Info] Unloaded plugin PermissionsManager v2.0.9 by Steenamaroo
+10:38 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+10:38 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 279ms
+10:38 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+10:38 [Info] Unloaded plugin Furnace Splitter v2.5.2 by FastBurst
+10:38 [Info] Unloaded plugin EasyAdmin v1.0.6 by Shady14u
+10:38 [Info] Compiler shutdown completed
+10:38 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 271ms
+10:38 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+10:38 [Info] Unloaded plugin Admin Radar v5.3.2 by nivex
+10:38 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+10:38 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+10:38 [Info] Loaded plugin Scheduled Messages v1.2.0 by gunman435
+10:38 [Info] Loaded plugin PermissionsManager v2.0.9 by Steenamaroo
+10:38 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+10:38 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 284ms
+10:38 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+10:38 [Info] Loaded plugin Furnace Splitter v2.5.2 by FastBurst
+10:38 [Info] Loaded plugin EasyAdmin v1.0.6 by Shady14u
+10:38 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+10:38 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+10:38 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+10:38 [Info] [BetterLoot] Updating internals ...
+10:38 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+10:38 [Info] Loaded plugin Admin Radar v5.3.2 by nivex
+10:38 [Info] [BetterLoot] Removed 11 stacked LootContainer
+10:38 [Info] [BetterLoot] Populated '11068' supported containers.
+10:38 [Info] [Admin Radar] Cached 16583/150316 entities in 3.753994 seconds!
+10:38 [Info] [CSharp] Started Oxide.Compiler v successfully
+10:39 [Info] Shutting down compiler because no more jobs
+10:39 [Error] Error while compiling QuickSmelt: } expected | Line: 81, Pos: 14
+10:39 [Info] Compiler shutdown completed
+10:39 [Info] Unloaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+10:39 [Info] Loaded plugin Rustcord v3.3.2 by Kirollos & OuTSMoKE
+10:39 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+10:39 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+10:39 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+10:39 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+10:39 [Info] [CSharp] Started Oxide.Compiler v successfully
+10:39 [Info] [Discord Extension] [Info]: Discord socket opened!
+10:39 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+10:39 [Info] Shutting down compiler because no more jobs
+10:39 [Info] AdminRadar, BetterLoot, EasyAdmin, FurnaceSplitter, GatherManager, NoGiveNotices, PermissionsManager and ScheduledMessages were compiled successfully in 1934ms
+10:39 [Info] Unloaded plugin Admin Radar v5.3.2 by nivex
+10:39 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 274ms
+10:39 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+10:39 [Error] Error while compiling QuickSmelt: } expected | Line: 81, Pos: 14
+10:39 [Info] Unloaded plugin EasyAdmin v1.0.6 by Shady14u
+10:39 [Info] Unloaded plugin Furnace Splitter v2.5.2 by FastBurst
+10:39 [Info] Compiler shutdown completed
+10:39 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 267ms
+10:39 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+10:39 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+10:39 [Info] Unloaded plugin PermissionsManager v2.0.9 by Steenamaroo
+10:39 [Info] Unloaded plugin Scheduled Messages v1.2.0 by gunman435
+10:39 [Info] Loaded plugin Admin Radar v5.3.2 by nivex
+10:39 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+10:39 [Info] [BetterLoot] Using '46' active of '56' supported containertypes
+10:39 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+10:39 [Info] [BetterLoot] Updating internals ...
+10:39 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+10:39 [Info] Loaded plugin EasyAdmin v1.0.6 by Shady14u
+10:39 [Info] Loaded plugin Furnace Splitter v2.5.2 by FastBurst
+10:39 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 260ms
+10:39 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+10:39 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+10:39 [Info] Loaded plugin PermissionsManager v2.0.9 by Steenamaroo
+10:39 [Info] Loaded plugin Scheduled Messages v1.2.0 by gunman435
+10:39 [Info] [BetterLoot] No stacked LootContainer found.
+10:39 [Info] [BetterLoot] Populated '11120' supported containers.
+10:39 [Info] [Admin Radar] Cached 16599/150374 entities in 3.76433 seconds!
+10:40 [Info] [CSharp] Started Oxide.Compiler v successfully
+10:40 [Info] Shutting down compiler because no more jobs
+10:40 [Error] Error while compiling QuickSmelt: The best overloaded Add method 'Dictionary<string, int>.Add(string, int)' for the collection initializer has some invalid arguments | Line: 55, Pos: 17
+10:40 [Info] Compiler shutdown completed
+10:40 [Info] [CSharp] Started Oxide.Compiler v successfully
+10:40 [Info] Shutting down compiler because no more jobs
+10:40 [Info] QuickSmelt was compiled successfully in 1375ms
+10:40 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 275ms
+10:40 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+10:40 [Info] Compiler shutdown completed
+10:40 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 268ms
+10:40 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+10:55 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+10:55 [Info] [Discord Extension] [Info]: Discord socket opened!
+10:55 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+13:55 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+13:55 [Info] [Discord Extension] [Info]: Discord socket opened!
+13:55 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+16:56 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+16:56 [Info] [Discord Extension] [Info]: Discord socket opened!
+16:56 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+18:43 [Warning] [Discord Extension] [Warning]: Discord WebSocket closed with abnormal close code. Code: 1006, reason: An exception has occurred while receiving.
+18:43 [Info] [Discord Extension] [Info]: Discord socket opened!
+18:43 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+19:00 [Warning] 'RustCore v2.0.6023' is using deprecated hook 'OnMapMarkerRemove', which will stop working on Sunday, 31 December 2023. Please ask the author to update to 'OnMapMarkerRemove(BasePlayer player, List<MapNote> mapMarker, int index)'
+19:14 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+19:14 [Info] [Discord Extension] [Info]: Discord socket opened!
+19:14 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+19:15 [Warning] [Discord Extension] [Warning]: Discord WebSocket closed with abnormal close code. Code: 1006, reason: An exception has occurred while receiving.
+19:15 [Info] [Discord Extension] [Info]: Discord socket opened!
+19:15 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+19:52 [Warning] [Discord Extension] [Warning]: Discord WebSocket closed with abnormal close code. Code: 1006, reason: An exception has occurred while receiving.
+19:52 [Info] [Discord Extension] [Info]: Discord socket opened!
+19:52 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+20:50 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+20:50 [Info] [Discord Extension] [Info]: Discord socket opened!
+20:50 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+21:31 [Warning] [Discord Extension] [Warning]: Discord WebSocket closed with abnormal close code. Code: 1006, reason: An exception has occurred while receiving.
+21:31 [Info] [Discord Extension] [Info]: Discord socket opened!
+21:31 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!
+22:47 [Info] [Discord Extension] [Info]: Discord has requested a reconnect. Reconnecting...
+22:47 [Info] [Discord Extension] [Info]: Discord socket opened!
+22:47 [Info] [Discord Extension] [Info]: Your bot was found in 1 Guilds!

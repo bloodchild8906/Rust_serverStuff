@@ -1,0 +1,112 @@
+01:17 [Info] Unloaded plugin Furnace Splitter v2.5.2 by FastBurst
+01:17 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+01:17 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+01:17 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+01:19 [Info] Loading Oxide Core v2.0.4070...
+01:19 [Info] Loading extensions...
+01:19 [Info] Loaded extension CSharp v2.0.4112 by Oxide Team and Contributors
+01:19 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+01:19 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+01:19 [Info] Unity version: 2021.3.29f1
+01:19 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+01:19 [Info] Loaded extension Rust v2.0.6023 by Oxide Team and Contributors
+01:19 [Info] [CSharp] Checking for updates for Oxide.Compiler | Local MD5: 3a0143f758249e0795072ff168a1197f | Last modified: 2023-09-29 19:07:47
+01:19 [Info] [CSharp] Oxide.Compiler is up to date
+01:19 [Info] File permissions set for Oxide.Compiler
+01:19 [Info] Using Covalence provider for game 'Rust'
+01:19 [Info] Loading plugins...
+01:19 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+01:19 [Info] Loaded plugin Rust v2.0.6023 by Oxide Team and Contributors
+01:19 [Error] Oxide.Ext.Discord is referenced by Rustcord plugin but is not loaded
+01:19 [Info] [CSharp] Started Oxide.Compiler v successfully
+01:19 [Info] Shutting down compiler because no more jobs
+01:19 [Info] Compiler shutdown completed
+01:19 [Info] StackSizeController, NoGiveNotices and FurnaceSplitter were compiled successfully in 500ms
+01:19 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+01:19 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+01:19 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+01:19 [Info] Loaded plugin Furnace Splitter v2.5.2 by FastBurst
+01:19 [Info] [Stack Size Controller] Adding new item attackhelicopter to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item rhib to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item rowboat to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item tugboat to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item snowmobile to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item snowmobiletomaha to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item locomotive to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item wagon to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item ammo.rocket.seeker to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item metal.facemask.hockey to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item metal.facemask.icemask to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item hazmatsuit.arcticsuit to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item hazmatsuit.diver to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item hazmatsuit.lumberjack to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item hazmatsuit_scientist_arctic to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item hazmatsuit_scientist_nvgm to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item metal.plate.torso.icevest to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item chair.icethrone to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item clantable to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item weaponrack.light to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item weaponrack.doublelight to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item hab.armor to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item electric.furnace to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item storageadaptor to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item industrial.combiner to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item industrial.conveyor to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item industrial.crafter to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item industrial.splitter to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item ptz.cctv.camera to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item gunrack.horizontal to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item gunrack_stand to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item gunrack_tall.horizontal to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item gunrack_wide.horizontal to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item chocolate to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item hat.rabbitmask to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item skylantern to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item skylantern.skylantern.green to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item skylantern.skylantern.orange to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item skylantern.skylantern.purple to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item skylantern.skylantern.red to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item hat.tigermask to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item bluedogtags to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item dogtagneutral to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item reddogtags to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item attire.egg.suit to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item rustige_egg_f to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item blueidtag to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item grayidtag to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item greenidtag to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item orangeidtag to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item pinkidtag to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item purpleidtag to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item redidtag to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item whiteidtag to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item yellowidtag to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item parachute.deployed to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item parachute to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item trophy to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item gingerbreadsuit to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item supertea to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item concretehatchet to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item concretepickaxe to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item lumberjack.hatchet to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item lumberjack.pickaxe to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item pipetool to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item spraycan to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item spraycandecal to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item weapon.mod.burstmodule to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item weapon.mod.extendedmags to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item rifle.ak.diver to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item rifle.ak.ice to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item diverhatchet to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item diverpickaxe to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item divertorch to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item grenade.flashbang to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item pistol.prototype17 to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item mace.baseballbat to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item torch.torch.skull to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item hmlmg to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item homingmissile.launcher to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item grenade.molotov to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item horse.saddle.double to IndividualItemStackSize in configuration.
+01:19 [Info] [Stack Size Controller] Adding new item horse.saddle.single to IndividualItemStackSize in configuration.
+01:23 [Info] IP address from command-line: 213.171.194.247

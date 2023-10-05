@@ -1,0 +1,163 @@
+{
+  "BackGround Color - Gui (Default 0.1 0.1 0.1 0.93)": "0.1 0.1 0.1 0.93",
+  "Ban Options": [
+    {
+      "BanMessage": "Kicked {targetType}",
+      "BanType": "Kick",
+      "ButtonText": "Kick {targetType}",
+      "Minutes": 0
+    },
+    {
+      "BanMessage": "Banned for 30 Minutes",
+      "BanType": "Ban",
+      "ButtonText": "Ban for 30 Minutes",
+      "Minutes": 30
+    },
+    {
+      "BanMessage": "Banned for 1 Hour",
+      "BanType": "Ban",
+      "ButtonText": "Ban for 1 Hour",
+      "Minutes": 60
+    },
+    {
+      "BanMessage": "Banned for 3 Hours",
+      "BanType": "Ban",
+      "ButtonText": "Ban for 3 Hours",
+      "Minutes": 180
+    },
+    {
+      "BanMessage": "Banned for 1 Day",
+      "BanType": "Ban",
+      "ButtonText": "Ban for 1 Day",
+      "Minutes": 1440
+    },
+    {
+      "BanMessage": "Banned for 1 Week",
+      "BanType": "Ban",
+      "ButtonText": "Ban for 1 Week",
+      "Minutes": 10080
+    },
+    {
+      "BanMessage": "Banned Permanently",
+      "BanType": "Ban",
+      "ButtonText": "Ban Permanently",
+      "Minutes": -1
+    },
+    {
+      "BanMessage": "Muted in Chat for 30 Minutes",
+      "BanType": "Chat",
+      "ButtonText": "Mute in Chat for 30 Minutes",
+      "Minutes": 30
+    },
+    {
+      "BanMessage": "Muted in Chat for 1 Hour",
+      "BanType": "Chat",
+      "ButtonText": "Mute in Chat for 1 Hour",
+      "Minutes": 60
+    },
+    {
+      "BanMessage": "Muted in Chat for 3 Hours",
+      "BanType": "Chat",
+      "ButtonText": "Mute in Chat for 3 Hours",
+      "Minutes": 180
+    },
+    {
+      "BanMessage": "Muted in Chat for 1 Day",
+      "BanType": "Chat",
+      "ButtonText": "Mute in Chat for 1 Day",
+      "Minutes": 1440
+    },
+    {
+      "BanMessage": "Muted in Chat for 1 Week",
+      "BanType": "Chat",
+      "ButtonText": "Mute in Chat for 1 Week",
+      "Minutes": 10080
+    },
+    {
+      "BanMessage": "Muted in Chat Permanently",
+      "BanType": "Chat",
+      "ButtonText": "Mute in Chat Permanently",
+      "Minutes": -1
+    },
+    {
+      "BanMessage": "Muted in Voice for 30 Minutes",
+      "BanType": "Voice",
+      "ButtonText": "Mute in Voice for 30 Minutes",
+      "Minutes": 30
+    },
+    {
+      "BanMessage": "Muted in Voice for 1 Hour",
+      "BanType": "Voice",
+      "ButtonText": "Mute in Voice for 1 Hour",
+      "Minutes": 60
+    },
+    {
+      "BanMessage": "Muted in Voice for 3 Hours",
+      "BanType": "Voice",
+      "ButtonText": "Mute in Voice for 3 Hours",
+      "Minutes": 180
+    },
+    {
+      "BanMessage": "Muted in Voice for 1 Day",
+      "BanType": "Voice",
+      "ButtonText": "Mute in Voice for 1 Day",
+      "Minutes": 1440
+    },
+    {
+      "BanMessage": "Muted in Voice for 1 Week",
+      "BanType": "Voice",
+      "ButtonText": "Mute in Voice for 1 Week",
+      "Minutes": 10080
+    },
+    {
+      "BanMessage": "Muted in Voice Permanently",
+      "BanType": "Voice",
+      "ButtonText": "Mute in Voice Permanently",
+      "Minutes": -1
+    }
+  ],
+  "Border Color - Gui (Default 0 0 0 0.8)": "0 0 0 0.8",
+  "Button Clans Anchor Max (Default 0.456 0.09)": "0.456 0.09",
+  "Button Clans Anchor Min (Default 0.2835 0.06)": "0.2835 0.06",
+  "Button Color - Gui (Default .11 .65 .18 1)": ".11 .65 .18 1",
+  "Button Color Kick - Gui (Default 0.65 0.18 0.11 1)": "0.65 0.18 0.11 1",
+  "Button Color Secondary - Gui (Default 0.65 0.18 .11 1)": "0.65 0.18 .11 1",
+  "Button Color Chat - Gui (Default 0.90 0.58 0.16 1)": "0.90 0.58 0.16 1",
+  "Button Color Voice - Gui (Default 0.90 0.58 0.16 1)": "0.90 0.58 0.16 1",
+  "Log Button Anchor Max (Default 0.54 0.09)": "0.54 0.09",
+  "Log Button Anchor Min (Default 0.46 0.06)": "0.46 0.06",
+  "Button Players Anchor Max (Default 0.7165 0.09)": "0.7165 0.09",
+  "Button Players Anchor Min (Default 0.543 0.06)": "0.543 0.06",
+  "Button Color Sleeper - Gui (Default 0.7 0.7 0.7 1)": "0.7 0.7 0.7 1",
+  "Detail Anchor Max (Default 0.72 0.9)": "0.72 0.9",
+  "Detail Anchor Min (Default 0.28 0.2)": "0.28 0.2",
+  "Header and Footer - Gui (Default 0.13 0.06 0.44 1)": "0.13 0.06 0.44 1",
+  "Inventory Background (Default 0.89 0.89 0.86 0.4)": "0.89 0.89 0.86 0.4",
+  "MySql": {
+    "Host": "",
+    "Db": "",
+    "User": "",
+    "Pass": "",
+    "Port": 3306,
+    "UseMySql": false
+  },
+  "Notify Users": true,
+  "Page Back Anchor Max (Default 0.3835 0.03)": "0.3835 0.03",
+  "Page Back Anchor Min - Gui (Default 0.2835 0)": "0.2835 0",
+  "Page Next Anchor Max (Default 0.7165 0.03)": "0.7165 0.03",
+  "Page Next Anchor Min - Gui (Default 0.6165 0)": "0.6165 0",
+  "Panel Anchor Max (Default 0.75 0.95)": "0.75 0.95",
+  "Panel Anchor Min (Default 0.25 0.13)": "0.25 0.13",
+  "Reasons": {
+    "Reason1": "Cheating is not allowed on the server.",
+    "Reason2": "Racism is not allowed on the server.",
+    "Reason3": "Sussy Game Play...",
+    "Reason4": "Toxic Game Play...",
+    "Reason5": "Griefing Players Bases is not allowed.",
+    "Reason6": "Spamming noise in chat is not allowed.",
+    "Reason7": "Advertising is not allowed.",
+    "Reason8": "Not following the rules."
+  },
+  "Report - Date Format (Default MM/dd/yyyy)": "dd-MM-yyyy hh:mm",
+  "Text Color - Gui (Default 1 1 1 1)": "1 1 1 1"
+}
